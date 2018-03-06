@@ -1,0 +1,770 @@
+
+\000   
+\000\000\000\000\000\000\000\000   
+\000\000\000\000\000\000\000\000\000\000   
+\000\000\000\000\000\000\000\000\000\000\000\000   
+\000\000\000\000\000\000\000\000\000\000\000\000\000\000   
+\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000   
+12Korvezee   
+26LOCAL   
+26LOCAL[Malformed Packet]  
+29LOCAL   
+29LOCAL[Malformed Packet]  
+2 Girls 1 Router
+$30/mins   
+420   
+545   
+5F87B1739E   
+AAA   
+Abs   
+Admiraal de Router 
+Admiraal de Router 2.4
+adriaantje2   
+Aerowifi   
+Aerowifi_5G   
+Afblijven, niet van jou
+Airport   
+Ajax   
+AKTIE FREE WIFI 
+Albert Heijn  
+Alienware   
+Amarula 2.4G  
+ambers epische wifi 
+Amersfoort   
+AndroidAP   
+aneduprouter   
+AnnDaniels Guest  
+arouzi   
+asanet   
+ASUS   
+Avolu4645   
+Baardcave   
+BaasBV   
+BakNet   
+Bananas   
+Barbar   
+BAR SIL  
+Barteljaap   
+Bas Segaar 2.4GHz 
+Bas Segaar 5GHz 
+Beckspace   
+Belkin.35DE   
+belkin.36ee   
+Belvedere priv\357\277\275  
+Bemelmans   
+Bill Wi, the Science
+Blackbarry   
+Blackbarry_5G   
+Bloeiend   
+Blokker WiFi  
+Boefje Extreme  
+BonteOs   
+BoschS510   
+Brandweer Delft 003 
+Bridges   
+Broadcast   
+BT 85 2.4 
+BT85WiFi   
+CafeHuug5G   
+Cafetango   
+Canton   
+CelenoInitialAP736E8F   
+CH10   
+ChaosWiFi   
+Che Guevara's Wifi 5GHz
+ChinaNet-r4L6   
+chocolate_cookies   
+ClickMe   
+CloudTrax Secure  
+Club Fingerbang  
+Confused Raisin  
+connekt corporate  
+Corona   
+corumArslan   
+CupidoKees292   
+CVT   
+CYYEH   
+dandan5G   
+Dan maar geen internet
+Darkwire   
+DBS_2.4   
+De Beren  
+De Beren Crew 
+De Centrale Prive 
+De Delftse Bedrijvendagen 2018
+default   
+DeGist-Kassa   
+DeGrot-Wifi   
+Delft Free WiFi 
+Delftse Bike Center 
+De Liefhebber  
+De Liefhebber-ext  
+devolo-30d32d601aef   
+Diamonde International  
+Digas@   
+Diggy   
+DilleKamille   
+DIRECT-09-HP Officejet 5740 
+DIRECT-20-HP ENVY 5540 series
+DIRECT-5b-HP M252 LaserJet 
+DIRECT-c2-Android_62b7   
+DIRECT-f7-HP M203 LaserJet 
+DIRECT-oL-matas tv  
+Disney   
+dlink   
+dlink-811C   
+dlink-8360   
+dlink-8360-5GHz   
+dlinkaga   
+D-Link_DIR-600M   
+D-Link_DIR-615   
+DonerCompany   
+DonerCompanyGast   
+draadlozing   
+Duwo   
+E9371B78F5   
+EdahDelft   
+edimax_2.4BR   
+edimax_2.4G_9DA041   
+edup62   
+eduroam   
+Eende   
+EGH   
+Eijsink81996   
+Eijsink85359   
+Einstein1   
+EJMMM   
+Eminent   
+eminent694   
+EminentNout   
+Emir&Velma   
+Error 404 - Wifi
+Esikli38   
+etos   
+etos[Malformed Packet]  
+Event Aula  
+Exalt 5.0Ghz  
+Festina Lente Downstairs 
+Fijn_MAIN_EXT   
+FlitzFashion   
+Fluffy   
+FortyTwo   
+francesco   
+Francis   
+Free WiFi Cafe Huug
+FREEWIFI Henri Willig Kaas
+Frisenfruitig   
+FRITZ!Box 7581 KS 
+FRITZ!Box 7581 OZ 
+FRITZ!Box Fon WLAN 7360
+FUZY   
+Gemeente Delft medewerkers 
+Gemeente Delft publiek 
+GI-FI   
+Gilf   
+Giovana   
+GroteSpeler   
+Guadalquivir   
+Guadalquivir5G   
+Guest   
+G_Y   
+G_Y_5G   
+H220N55520D   
+H368N00C2F5   
+H368N1120EB   
+H368N143C5C   
+H369A0071E6   
+H369A046947_2.4G_WiFi_Versterker   
+H369A093B2D   
+H369A0978B3-5GhZ   
+H369A0B8C03   
+H369A108CE3   
+H369A208829   
+H369A231556   
+H369A24E881   
+H369A254A2E   
+H369A256FA6   
+H369A25BFF6   
+H369A2641EE   
+H369A2695EE   
+H369A269B73   
+H369A26A7FD   
+H369A33B9C4   
+H369A34905E   
+H369A353B79   
+H369A35A3AA   
+H369A36B71A   
+H369A3944F7   
+H369A3F9F9A   
+H369A3FE755   
+H369A3FE86F   
+H369A49FE33   
+H369A52BA7F   
+H369A52C2B0   
+H369A5A1641   
+H369A5A6B6D 5GHz  
+H369A691793   
+H369A69413F   
+H369A6ABB63   
+H369A6D0A4A   
+H369A6DBAAB   
+H369A7261DB   
+H369A726818   
+H369A7EEDC3   
+H369A7FAE41   
+H369A86DA95   
+H369A88F137   
+H369A8E9CF1   
+H369A9194AE   
+H369A9A4E4B   
+H369A9B894E   
+H369A9C2B33   
+H369AAF808C   
+H369AAFFE1F   
+H369AB6E26E   
+H369AB9D949   
+H369ABFE2A1   
+H369AC251CE   
+H369AC26AB8   
+H369ACCBB58   
+H369ACCC98F   
+H369AE63E03   
+H369AEB90AC   
+HalloJumbo   
+Handiquacks   
+Harbinger   
+HARDCOR   
+HauseHerman   
+Heaven 17  
+Heembouw de Hoven 
+Hello   
+HerbergierThuis   
+Hertje2   
+Het Hoekje  
+Het Hoekje-gast  
+HetInternet   
+Het Konings Huys Office
+HG655D-1480FF   
+Himanshu   
+Hogwarts   
+home   
+Home   
+Hotorange   
+house of vermeer 
+house of vermeer 2.4
+How are you? 
+HP-Print-57-LaserJet M12  
+HSSEO   
+HTD-5G   
+HUAWEI-4MJUEQ   
+HUAWEI-9MVML4_5G   
+HUAWEI-E5186-5G-CC6B   
+HUAWEI-E5186-CC6B   
+HUAWEI-KFVH5M   
+HUAWEI-KK9ZRS   
+HUAWEI-KK9ZRS-5G   
+HUAWEI-QA   
+HUAWEI-QA_5G   
+Huiskamer   
+huiyi   
+Huize 3 op 14
+Huize A.D.A.M.  
+Huize A.D.A.M. 5G 
+Huize_A&I_2.4Ghz   
+Huize_A&I_5Ghz   
+Huize Flamoesch  
+Huize Hakmes  
+HuizeHari   
+Huize Paps  
+Huize Puur Genot 
+HZN240208012   
+HZN240949678   
+HZN241205278   
+HZN244174383   
+HZN246565252   
+HZN247037575   
+HZN249345332   
+HZN500756583   
+HZN500911732   
+HZN502952238   
+HZN503546289   
+HZN506154161   
+HZN508065326   
+HZN508280540   
+HZN508942855   
+iBall-Baton   
+Icarus4   
+ICIDU   
+I-like-trains   
+il-nno.tudelft.wleiden.net   
+il-ono.tudelft.wleiden.net   
+island-26E270   
+IWS_STATION_5GHz   
+J-3P   
+J-3P[Malformed Packet]  
+Jacob11   
+Jacob11-beneden   
+Jacob11-boven   
+Jans Internet  
+Jasper's Netwerk 5GHz 
+JBvP   
+JF_Client   
+JFM   
+JHDWSY   
+JHDWSY_5G   
+jhkim   
+JingliangShen   
+JJ   
+Joe!   
+Joe5   
+JoeWifi   
+JP_NL   
+JSEHV   
+Jumbo-HotSpot   
+Jumbo-HotSpot[Malformed Packet]  
+J-WKL   
+kabelinternet   
+Kaldi Delft  
+KauwgomNetwerk   
+KauwgomNetwerk5G   
+KBARRIQUE   
+Kebabs   
+Kebabs-guest   
+Kelly5G   
+kenau meterkast  
+kiwifi   
+K-Kobus   
+Knippen & Scheren netwerk
+Koffyhuis_VIP   
+Konijn   
+Koningshuys   
+KoningsHuys   
+KPN   
+KPN Demo  
+KPN Fon  
+kpn-pim   
+kpnretail1   
+KPN-VGV751993BE5D   
+KPN-VGV75199CBA21   
+KPN-VGV7519F42F51   
+kvyb798th763cgh4589ft7u89b7j654h   
+K-WO   
+LabelPrinter   
+La Bestia Negra 
+ladelftbrab47   
+LADelft brab59  
+ladelftsuite   
+Laila   
+Laila-guest   
+LBH Groep  
+LBO   
+LCHRMG   
+leaf22   
+Lemsterland   
+Lemsterland-guest   
+<length:0>   
+Lincherie   
+linksys   
+Linksys01421   
+Linksys02861_5GHz   
+Linksys02972   
+Linksys04449   
+Linksys06971_5GHz   
+Linksys34731   
+Linksys34731_5GHz   
+LionelRichie   
+Little Corn Island 
+little fish  
+LOCUS-WIFI   
+LOCUS-WIFI 5GHz  
+lora123   
+low_signal   
+LS   
+Lucky   
+Lunchbar Ju&Mi  
+Lunchbar Ju&Mi_5G  
+Luukse Chromecast.b  
+Luuk's internet 5G 
+lxt   
+Marih\357\277\275\357\277\275nen-g   
+marketing-ng   
+Maro   
+Mars21   
+Matelis   
+MegaSeedMorty_5GHz   
+MERCURY_J   
+MeteoriteProbers   
+Metten   
+Mightiest Wifi  
+Mighty Wifi  
+Mima's house  
+Mind Palace  
+Minimaal Genieten!  
+MioritzaOlandeza   
+Mitra   
+Mladen_TPlink   
+ML-IO   
+MN_guest   
+MOL   
+Molshoop   
+Molstraat68   
+Momentum Technologies  
+Moorkop   
+mr Fish  
+M&S 5G  
+Mshome   
+MT_2   
+Music Box d0:4b:26 
+mycloud   
+n708   
+NathaTim - Gastnetwerk 
+NathaTimHuis   
+Netcore_B090CC   
+NETGEAR18-5G   
+NETGEAR49   
+NETGEAR58   
+NFI   
+NikkieFy   
+NK_Gast   
+NK_medewerkers   
+NK_SYS   
+NLHA   
+NLWGA   
+NotYourNetwork   
+O.Bea   
+OLD22A   
+oldijkdelft   
+onlineADSL   
+Openfiber.nl   
+Open Publiek  
+Oranjeboven   
+Other...   
+Palladyn   
+PANINVEST   
+pannekoek   
+paperclipt-guest   
+PBT_gast   
+pekingwok   
+pekingwok_5G   
+Pepitogrillo_Network   
+Petya   
+PFM   
+Phone & Tablet Service
+PinguinClub   
+PostNL   
+Probleem?   
+Prometheus   
+PS4-280045B683D9   
+PS4-EB2D219D1A92   
+Pura Vida  
+qstat2.4   
+qyl   
+qyn1   
+qyn2   
+qyn3   
+R184   
+Rencof   
+ResatYilmaz   
+RestaurantPeking   
+restaurant yosshi.5G  
+RICKYKAIYA10   
+Ritel Delft  
+Rob   
+RocketSurgeon@2.4   
+RocketSurgeon@5   
+RojoConesa   
+rprabhu   
+Rustpaleis   
+S_2.4GHz   
+S_5GHz   
+Santo_Amigo   
+Sarantis   
+Schiedam   
+Schobbejak   
+SchrodingersCat   
+schuiftrompet   
+SEC_LinkShare_e38c59   
+Seminole   
+Senf   
+Sense_f-secure   
+SillyNet   
+Sitecom070C70   
+Sitecom0E34B4   
+Sitecom25AF76   
+Sitecom26DFFD   
+Sitecom292a57   
+Sitecom344E96   
+Sitecom390243   
+Sitecom3B8A72   
+Sitecom3d28cb   
+Sitecom434244   
+Sitecom434245   
+Sitecom4DF8EB   
+Sitecoma28db4   
+Sjenkels   
+skynet   
+Slick Rick 5G 
+Slowald   
+Spar   
+SpeedTouch3E4DF1   
+SpeedTouch663624   
+Staafmixer   
+stadhuis015   
+Staff Delft  
+Stationskeet   
+straalkoe   
+Stuxnet   
+Supergirls   
+Supergirls-5GHz   
+sur-shop   
+Sweex_LW310V2   
+SWEEX_LW320_277D54   
+Swibba Cribba 2.4 
+Swibba Cribba 5 
+tabs   
+Tante lien  
+TD WiFi  
+TELE2-20E167_2.4G   
+TELE2-2F36B4_5G   
+TELE2-2F4E38_5G   
+TELE2-4AC548_5G   
+TELE2-6A1A85_2.4G   
+TELE2-9E42BE_2.4G   
+TELE2-9E42BE_5G   
+TELE2-F00C0F   
+Telgefixt-Gast   
+Tharun   
+The Bodyshop  
+The End  
+The_Hangout   
+Thomson774C09   
+Thomson9C78D5   
+ThomsonE6A4DF   
+thomson-J7519GH   
+Tijd voor pils! 
+TimWireless   
+TMNL-12547C   
+TMNL-12547C5G   
+TMNL-424E875G   
+T-Mobile Thuis  
+T-Mobile Thuis 5G 
+TNCAP981CAF   
+TP-Cloudia_W023   
+TP-LINK_17B4   
+TP-LINK_2.4GHz_6E7C91   
+TP-LINK_2581D4   
+TP-LINK_34AA   
+TP-LINK_350B   
+TP-LINK_4254   
+TP-LINK_48F2   
+TP-Link_5411   
+TP-LINK_5E58   
+TP-LINK_5G_AB37   
+TP-LINK_5GHz_6E7C90   
+TP-LINK_6ABC   
+TP-Link_7780   
+TP-Link_7780_5G   
+TP-LINK_7CFC   
+TP-LINK_7CFC_5G   
+TP-Link_A4E6   
+TP-LINK_AB37   
+TP-LINK_B96C   
+TP-LINK_BC4C   
+TP-Link_C1A2_5G   
+TP-LINK_D608   
+TP-LINK_DC18   
+TP-LINK_E4E9   
+TP-LINK_E4E9_5G   
+TP-LINK_Guest_AE3C   
+Tromp   
+trompet   
+TU Auditorium Techniek 
+tudelft-dastud   
+TUI-RSB-Private   
+TUvisitor   
+ubiquity   
+up2learn   
+UPC240362636   
+UPC241074464   
+UPC242373254   
+UPC243153392   
+UPC246124097   
+UPC246645704   
+UPC248987472   
+UPC249501139   
+UPC504049577   
+USR5461   
+VADALI7 4972  
+Van 9 tot Zeven
+Verkade en Jacques 
+Verkade & Jacques 
+VF-Corporate   
+VF-Guest   
+VFNL-0A5540   
+VFNL-3C75675G   
+VFNL-3E355F5G   
+VFNL-4B9EC35G   
+VFNL-609958   
+VFNL-61002D   
+VFNL-61002D5G   
+VFNL-DF2C70   
+VFNL-EDA4C8   
+VFW Delft 667 
+VGV751916D45E   
+VGV751924C786   
+VGV7519255152   
+VGV751932CCD0   
+VGV751933A1A5   
+VGV751933FD50_EXT   
+VGV7519347AEE   
+VGV75195ECDD4   
+VGV75198228B8   
+VGV7519874327   
+VGV75198F1710   
+VGV7519A0AE04   
+VGV7519A78D36   
+VGV7519B53288   
+VGV7519BCE0C4   
+VGV7519BCE3E2   
+VGV7519C9F792   
+VGV7519CA056B   
+VGV7519F46334   
+VIP A&I  
+Visbanken guest  
+VNT   
+Vo_Beton   
+Vo_Beton_5G   
+Vo_Beton_guest   
+Voorhof Apotheek  
+VorkWifi   
+'VoVoorDeLeden   
+vt   
+v-u-office   
+v-u-print   
+Wasp   
+Wat kan je leren?
+Weeb_Cave   
+WEEFEE   
+Whatisthis   
+WiFi   
+Wi-Fi_107   
+WiFi-719652   
+WiFi-BC7CA9   
+WiFi-BD6F57   
+WiFi-BDF556   
+WiFi-FF5755   
+Wifi Ju&Mi  
+Wi-Fi-netwerk van Floris 
+Wifipublicus2   
+Wifi-RM   
+Wijnhaven_MAIN   
+Winkelautomatisering   
+Winkelcentrum De Hoven 
+Winkelsupport   
+Winternet Is Coming 
+WLANGBANG   
+wlan-secure   
+WMS   
+WorkSquare   
+WorkSquare-for-clients   
+WorkSquare-guest   
+Wraptastic   
+WWDTSWSMMN   
+Xiaomi_0F23   
+Xiaomi1234   
+Xiaomi_1FB3   
+Xperia Z1 Compact_dd8f 
+Yo   
+yosshi   
+You are Connekted 
+YT   
+zaheerwifi   
+zebrolab   
+Ziggo   
+Ziggo04E28   
+Ziggo04E28-5G   
+Ziggo112AF6F   
+Ziggo12397   
+Ziggo132E9DC   
+Ziggo13DEA43   
+Ziggo14665   
+Ziggo14CDE5A   
+Ziggo19294B8   
+Ziggo1A728F3   
+Ziggo1AABCAF   
+Ziggo1AC3C6C   
+Ziggo1D6C6-5G   
+Ziggo1EA7958   
+Ziggo21E84CD   
+Ziggo25333BC   
+Ziggo25747   
+Ziggo27616   
+Ziggo2FBDC4B   
+Ziggo33783   
+Ziggo3AE3225   
+Ziggo40479   
+Ziggo421325G   
+Ziggo43753   
+Ziggo440321   
+Ziggo45971   
+Ziggo46242   
+Ziggo4794571   
+Ziggo47E5C   
+Ziggo49641   
+Ziggo49641-5G   
+Ziggo4AFA416   
+Ziggo4BD47D2   
+Ziggo537691E   
+Ziggo57523   
+Ziggo57FE215   
+Ziggo59832   
+Ziggo5A329D8   
+Ziggo610E8   
+Ziggo63240   
+Ziggo65247   
+Ziggo66C7561   
+Ziggo69118E9   
+Ziggo69FBF74   
+Ziggo6CAB871   
+Ziggo6F2CAFE   
+Ziggo7646B77   
+Ziggo78413   
+Ziggo78413_EXT   
+Ziggo78529   
+Ziggo7C3131D   
+Ziggo7E2E9DE   
+Ziggo853D91B-5G   
+Ziggo85615   
+Ziggo8ABF1D3   
+Ziggo9305833   
+Ziggo991E748   
+Ziggo992AE14   
+Ziggo9BD3181   
+ZiggoAF68527   
+ZiggoAFC22E7   
+ziggo-ap-0a42118   
+ziggo-ap-970d9ec_EXT   
+ZiggoB4BABCF   
+ZiggoB527A8C   
+ZiggoC1E4DC4   
+ZiggoC23D8F1   
+ZiggoC2D4924   
+ZiggoC55F261   
+ZiggoCCEA616   
+ZiggoCD13F7F   
+ZiggoCD83E7B   
+ZiggoDFB2AF2   
+ZiggoE25B3-5G   
+ZiggoE3EE9D2   
+ZiggoEA6DBFB   
+ZiggoEB1A8B6   
+ZiggoF3FBEB2   
+ZiggoFAD8C8A   
+ZiggoFB8D3D2   
+Ziggo-gastB4BABCF   
+Zon-is-fijn   
+Zuideinde100   
+Zuideinde_5   
+Zwaardjes   
+ZyXELB7C699   
+ZyXELE7FFC9   
