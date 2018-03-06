@@ -1,0 +1,914 @@
+   52 71.929572146 Cisco-Li_6c:c3:eb → Broadcast    802.11 313  10 Beacon frame, SN=2434, FN=0, Flags=........, BI=100, SSID=linksys
+   56 71.960094863 BelkinIn_81:de:ae → Broadcast    802.11 328  11 Beacon frame, SN=734, FN=0, Flags=........, BI=100, SSID=Laila
+   57 71.965247089 Tp-LinkT_1c:c2:4b → Broadcast    802.11 310  11 Beacon frame, SN=1440, FN=0, Flags=........, BI=100, SSID=Weeb_Cave
+   60 72.167240599 BelkinIn_80:3c:84 → Broadcast    802.11 303  13 Beacon frame, SN=2726, FN=0, Flags=........, BI=100, SSID=Linksys34731
+   61 87.869081177 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3083, FN=0, Flags=........, BI=100, SSID=Himanshu
+   75 93.603224748 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3147, FN=0, Flags=........, BI=100, SSID=Himanshu
+   78 103.024334676 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3242, FN=0, Flags=........, BI=100, SSID=Himanshu
+   79 103.638520254 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3249, FN=0, Flags=........, BI=100, SSID=Himanshu
+   80 104.252903801 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3255, FN=0, Flags=........, BI=100, SSID=Himanshu
+   81 107.939418864 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3291, FN=0, Flags=........, BI=100, SSID=Himanshu
+   82 110.397037013 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3315, FN=0, Flags=........, BI=100, SSID=Himanshu
+   83 111.625735277 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3328, FN=0, Flags=........, BI=100, SSID=Himanshu
+   86 134.563334164 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3574, FN=0, Flags=........, BI=100, SSID=Himanshu
+  100 137.328105094 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3607, FN=0, Flags=........, BI=100, SSID=Himanshu
+  115 143.574778287 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3700, FN=0, Flags=........, BI=100, SSID=Himanshu
+  118 144.804869309 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3714, FN=0, Flags=........, BI=100, SSID=Himanshu
+  120 145.623815514 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3727, FN=0, Flags=........, BI=100, SSID=Himanshu
+  124 147.466040494 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3750, FN=0, Flags=........, BI=100, SSID=Himanshu
+  134 152.790867165 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3825, FN=0, Flags=........, BI=100, SSID=Himanshu
+  149 162.211695169 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3951, FN=0, Flags=........, BI=100, SSID=Himanshu
+  153 164.465209238 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=3982, FN=0, Flags=........, BI=100, SSID=Himanshu
+  156 168.356008543 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=4033, FN=0, Flags=........, BI=100, SSID=Himanshu
+  159 169.277128197 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=4044, FN=0, Flags=........, BI=100, SSID=Himanshu
+  160 169.686901034 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=4048, FN=0, Flags=........, BI=100, SSID=Himanshu
+  161 172.144323138 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=4072, FN=0, Flags=........, BI=100, SSID=Himanshu
+  164 176.342861883 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=24, FN=0, Flags=........, BI=100, SSID=Himanshu
+  166 178.493096501 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=45, FN=0, Flags=........, BI=100, SSID=Himanshu
+  173 182.179693636 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=81, FN=0, Flags=........, BI=100, SSID=Himanshu
+  180 182.589283657 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=85, FN=0, Flags=........, BI=100, SSID=Himanshu
+  181 183.818096332 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=97, FN=0, Flags=........, BI=100, SSID=Himanshu
+  184 189.247304802 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=153, FN=0, Flags=........, BI=100, SSID=Himanshu
+  187 191.658643345 D-LinkIn_7d:53:8b → Broadcast    802.11 325  2 Beacon frame, SN=1577, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  188 191.661423700 Tp-LinkT_6b:78:9e → Broadcast    802.11 308  2 Beacon frame, SN=3832, FN=0, Flags=........, BI=100, SSID=WiFie
+  191 191.742000566 Intronic_97:d6:58 → Broadcast    802.11 317  5 Beacon frame, SN=3999, FN=0, Flags=........, BI=100, SSID=Eminent
+  198 191.900902038 Tp-LinkT_73:ae:3b → Broadcast    802.11 305  10 Beacon frame, SN=1902, FN=0, Flags=........, BI=100, SSID=Guil
+  199 191.902982083 56:c7:bf:73:ae:3c → Broadcast    802.11 264  10 Beacon frame, SN=1903, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  209 192.281182468 BelkinIn_97:29:d6 → Broadcast    802.11 318  36 Beacon frame, SN=1285, FN=0, Flags=........, BI=100, SSID=Baaijens
+  212 193.341412225 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=195, FN=0, Flags=........, BI=100, SSID=Himanshu
+  213 193.371897140 Apple_e9:5f:fb → Broadcast    802.11 267  100 Beacon frame, SN=159, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  215 194.672511082 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=208, FN=0, Flags=........, BI=100, SSID=Himanshu
+  217 196.003791038 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=225, FN=0, Flags=........, BI=100, SSID=Himanshu
+  219 200.611825010 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=294, FN=0, Flags=........, BI=100, SSID=Himanshu
+  221 203.069303055 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=336, FN=0, Flags=........, BI=100, SSID=Himanshu
+  227 208.586402500 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1442, FN=0, Flags=........, BI=100, SSID=Yowifi
+  237 208.779463089 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2050, FN=0, Flags=........, BI=100, SSID=Athreya
+  239 208.832685652 BelkinIn_97:29:d5 → Broadcast    802.11 340  10 Beacon frame, SN=1278, FN=0, Flags=........, BI=100, SSID=Baaijens
+  243 208.874405258 Apple_e9:5f:fa → Broadcast    802.11 267  11 Beacon frame, SN=3318, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  252 209.653089740 Apple_e9:5f:fb → Broadcast    802.11 267  100 Beacon frame, SN=319, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  265 211.568599368 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=485, FN=0, Flags=........, BI=100, SSID=Himanshu
+  268 212.490254196 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=495, FN=0, Flags=........, BI=100, SSID=Himanshu
+  340 213.719061674 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=515, FN=0, Flags=........, BI=100, SSID=Himanshu
+  348 214.231098035 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=520, FN=0, Flags=........, BI=100, SSID=Himanshu
+  351 215.971879378 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=545, FN=0, Flags=........, BI=100, SSID=Himanshu
+  357 216.893480746 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=557, FN=0, Flags=........, BI=100, SSID=Himanshu
+  362 217.405473849 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=562, FN=0, Flags=........, BI=100, SSID=Himanshu
+  363 217.815089111 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=569, FN=0, Flags=........, BI=100, SSID=Himanshu
+  365 219.045570408 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=585, FN=0, Flags=........, BI=100, SSID=Himanshu
+  374 220.869455006 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1572, FN=0, Flags=........, BI=100, SSID=Yowifi
+  383 221.057651632 Tp-LinkT_53:67:fc → Broadcast    802.11 276  8 Beacon frame, SN=2672, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  385 221.066569684 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2188, FN=0, Flags=........, BI=100, SSID=Athreya
+  389 221.141548348 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=2490, FN=0, Flags=........, BI=100, SSID=codroipo
+  391 221.159287131 Apple_e9:5f:fa → Broadcast    802.11 267  11 Beacon frame, SN=3441, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  394 221.314467767 Tp-LinkT_73:b1:66 → Broadcast    802.11 370  36 Beacon frame, SN=3581, FN=0, Flags=........, BI=100, SSID=Yowifi-5G
+  396 223.793232253 Intronic_97:d6:58 → Broadcast    802.11 317  6 Beacon frame, SN=231, FN=0, Flags=........, BI=100, SSID=Eminent
+  397 223.797946662 Apple_0b:36:87 → Broadcast    802.11 265  6 Beacon frame, SN=284, FN=0, Flags=........, BI=100, SSID=ahoj brno!
+  399 223.900435226 Apple_0b:36:87 → Broadcast    802.11 265  6 Beacon frame, SN=285, FN=0, Flags=........, BI=100, SSID=ahoj brno!
+  404 224.526557404 Tp-LinkT_85:cd:27 → Broadcast    802.11 320  1 Beacon frame, SN=2473, FN=0, Flags=........, BI=100, SSID=BroadBrandt-2.4
+  410 224.758714973 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  9 Beacon frame, SN=2231, FN=0, Flags=........, BI=100, SSID=Athreya
+  420 232.443004469 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1700, FN=0, Flags=........, BI=100, SSID=Yowifi
+  424 232.479316686 D-LinkIn_1e:56:ef → Broadcast    802.11 327  2 Beacon frame, SN=1023, FN=0, Flags=........, BI=100, SSID=Alok Bharadwaj
+  425 232.533242100 Cisco-Li_b5:77:6b → Broadcast    802.11 269  4 Beacon frame, SN=1927, FN=0, Flags=........, BI=100, SSID=Flowwjob
+  426 232.625481703 Tp-LinkT_53:67:fc → Broadcast    802.11 276  8 Beacon frame, SN=2807, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  429 232.645145637 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2316, FN=0, Flags=........, BI=100, SSID=Athreya
+  431 232.687001584 BelkinIn_97:29:d5 → Broadcast    802.11 340  10 Beacon frame, SN=1526, FN=0, Flags=........, BI=100, SSID=Baaijens
+  433 232.711668949 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=2625, FN=0, Flags=........, BI=100, SSID=codroipo
+  436 232.728637921 Apple_e9:5f:fa → Broadcast    802.11 267  11 Beacon frame, SN=3559, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  437 232.884435317 Tp-LinkT_73:ae:3a → Broadcast    802.11 368  36 Beacon frame, SN=418, FN=0, Flags=........, BI=100, SSID=Guil 5G
+  438 232.885291468 Tp-LinkT_73:b1:66 → Broadcast    802.11 370  36 Beacon frame, SN=3710, FN=0, Flags=........, BI=100, SSID=Yowifi-5G
+  442 233.512265557 Apple_e9:5f:fb → Broadcast    802.11 267  100 Beacon frame, SN=553, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  450 235.876182939 Intronic_97:d6:58 → Broadcast    802.11 317  5 Beacon frame, SN=351, FN=0, Flags=........, BI=100, SSID=Eminent
+  456 236.031898993 D-LinkIn_43:7a:e0 → Broadcast    802.11 318  11 Beacon frame, SN=786, FN=0, Flags=........, BI=100, SSID=Metten
+  457 236.034405583 Tp-LinkT_73:ae:3b → Broadcast    802.11 305  11 Beacon frame, SN=2808, FN=0, Flags=........, BI=100, SSID=Guil
+  458 236.036468984 56:c7:bf:73:ae:3c → Broadcast    802.11 264  11 Beacon frame, SN=2809, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  464 238.584561121 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1763, FN=0, Flags=........, BI=100, SSID=Yowifi
+  465 238.617066381 D-LinkIn_43:72:64 → Broadcast    802.11 329  1 Beacon frame, SN=402, FN=0, Flags=........, BI=100, SSID=Bas Segaar 2.4GHz
+  467 238.633936385 Tp-LinkT_6b:78:9e → Broadcast    802.11 308  1 Beacon frame, SN=488, FN=0, Flags=........, BI=100, SSID=WiFie
+  472 238.748534030 Apple_0b:36:87 → Broadcast    802.11 265  6 Beacon frame, SN=431, FN=0, Flags=........, BI=100, SSID=ahoj brno!
+  473 238.784641226 Tp-LinkT_53:67:fc → Broadcast    802.11 276  7 Beacon frame, SN=2887, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  486 238.948513770 Tp-LinkT_33:9d:ad → Broadcast    802.11 327  36 Beacon frame, SN=2829, FN=0, Flags=........, BI=100, SSID=Slick Rick 5G
+  489 239.553806728 Apple_e9:5f:fb → Broadcast    802.11 267  100 Beacon frame, SN=612, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  490 241.451788687 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1794, FN=0, Flags=........, BI=100, SSID=Yowifi
+  491 241.459935067 Tp-LinkT_34:03:62 → Broadcast    802.11 309  1 Beacon frame, SN=412, FN=0, Flags=........, BI=100, SSID=Govern
+  492 241.475496301 D-LinkIn_39:c3:00 → Broadcast    802.11 332  1 Beacon frame, SN=3230, FN=0, Flags=........, BI=100, SSID=Youri-Netwerk 2.4GHz
+  493 241.484287626 D-LinkIn_43:72:64 → Broadcast    802.11 329  1 Beacon frame, SN=431, FN=0, Flags=........, BI=100, SSID=Bas Segaar 2.4GHz
+  494 241.554175528 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  2 Beacon frame, SN=1795, FN=0, Flags=........, BI=100, SSID=Yowifi
+  495 241.593065966 D-LinkIn_1e:56:ef → Broadcast    802.11 327  2 Beacon frame, SN=1144, FN=0, Flags=........, BI=100, SSID=Alok Bharadwaj
+  496 241.788496150 Tp-LinkT_af:6a:2f → Broadcast    802.11 317  4 Beacon frame, SN=4, FN=0, Flags=........, BI=100, SSID=nfac
+  497 241.868461874 HewlettP_15:6f:77 → Broadcast    802.11 444  4 Beacon frame, SN=460, FN=0, Flags=........, BI=100, SSID=DIRECT-76-HP ENVY 7640 series
+  498 241.917782346 Intronic_97:d6:58 → Broadcast    802.11 317  5 Beacon frame, SN=411, FN=0, Flags=........, BI=100, SSID=Eminent
+  499 242.020221919 Intronic_97:d6:58 → Broadcast    802.11 317  6 Beacon frame, SN=412, FN=0, Flags=........, BI=100, SSID=Eminent
+  500 242.122545872 Intronic_97:d6:58 → Broadcast    802.11 317  6 Beacon frame, SN=413, FN=0, Flags=........, BI=100, SSID=Eminent
+  501 242.148735192 Tp-LinkT_53:67:fc → Broadcast    802.11 276  7 Beacon frame, SN=2939, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  502 242.263532057 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2422, FN=0, Flags=........, BI=100, SSID=Athreya
+  503 242.353571633 Tp-LinkT_53:67:fc → Broadcast    802.11 276  8 Beacon frame, SN=2943, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  504 242.365993086 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2423, FN=0, Flags=........, BI=100, SSID=Athreya
+  505 242.468266366 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  9 Beacon frame, SN=2424, FN=0, Flags=........, BI=100, SSID=Athreya
+  506 242.516046794 BelkinIn_97:29:d5 → Broadcast    802.11 340  10 Beacon frame, SN=1631, FN=0, Flags=........, BI=100, SSID=Baaijens
+  507 242.585046245 D-LinkIn_43:7a:e0 → Broadcast    802.11 318  10 Beacon frame, SN=851, FN=0, Flags=........, BI=100, SSID=Metten
+  508 242.619205718 BelkinIn_97:29:d5 → Broadcast    802.11 340  10 Beacon frame, SN=1632, FN=0, Flags=........, BI=100, SSID=Baaijens
+  509 242.643616047 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=2745, FN=0, Flags=........, BI=100, SSID=codroipo
+  510 242.661479584 Apple_e9:5f:fa → Broadcast    802.11 267  11 Beacon frame, SN=3659, FN=0, Flags=........, BI=100, SSID=Hogwarts
+  511 242.687448914 D-LinkIn_43:7a:e0 → Broadcast    802.11 318  11 Beacon frame, SN=852, FN=0, Flags=........, BI=100, SSID=Metten
+  512 242.689867489 Tp-LinkT_73:ae:3b → Broadcast    802.11 305  11 Beacon frame, SN=2945, FN=0, Flags=........, BI=100, SSID=Guil
+  513 242.692006741 56:c7:bf:73:ae:3c → Broadcast    802.11 264  11 Beacon frame, SN=2946, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  514 242.699724685 BelkinIn_81:ed:c6 → Broadcast    802.11 280  11 Beacon frame, SN=3060, FN=0, Flags=........, BI=100, SSID=JFBO
+  515 242.721113149 BelkinIn_97:29:d5 → Broadcast    802.11 340  11 Beacon frame, SN=1633, FN=0, Flags=........, BI=100, SSID=Baaijens
+  516 242.745948217 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=2746, FN=0, Flags=........, BI=100, SSID=codroipo
+  517 243.021828213 Tp-LinkT_73:ae:3a → Broadcast    802.11 368  36 Beacon frame, SN=526, FN=0, Flags=........, BI=100, SSID=Guil 5G
+  518 243.022813834 Tp-LinkT_73:b1:66 → Broadcast    802.11 370  36 Beacon frame, SN=3822, FN=0, Flags=........, BI=100, SSID=Yowifi-5G
+  519 243.071638913 BelkinIn_97:29:d6 → Broadcast    802.11 318  36 Beacon frame, SN=1795, FN=0, Flags=........, BI=100, SSID=Baaijens
+  520 243.304183025 Tp-LinkT_6b:78:9d → Broadcast    802.11 335  44 Beacon frame, SN=2962, FN=0, Flags=........, BI=100, SSID=WiFie-5GHz
+  521 255.888953558 Tp-LinkT_34:03:62 → Broadcast    802.11 309  1 Beacon frame, SN=565, FN=0, Flags=........, BI=100, SSID=Govern
+  522 255.891374759 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=1941, FN=0, Flags=........, BI=100, SSID=Yowifi
+  523 255.893661714 BelkinIn_da:6d:de → Broadcast    802.11 262  1 Beacon frame, SN=1375, FN=0, Flags=........, BI=100, SSID=Router Joeri
+  524 255.913977275 D-LinkIn_39:c3:00 → Broadcast    802.11 332  1 Beacon frame, SN=3371, FN=0, Flags=........, BI=100, SSID=Youri-Netwerk 2.4GHz
+  525 255.926243293 Tp-LinkT_6b:78:9e → Broadcast    802.11 308  1 Beacon frame, SN=668, FN=0, Flags=........, BI=100, SSID=WiFie
+  526 255.965606692 D-LinkIn_7d:53:8b → Broadcast    802.11 325  2 Beacon frame, SN=2300, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  527 256.016446858 D-LinkIn_39:c3:00 → Broadcast    802.11 332  2 Beacon frame, SN=3372, FN=0, Flags=........, BI=100, SSID=Youri-Netwerk 2.4GHz
+  528 256.068009459 D-LinkIn_7d:53:8b → Broadcast    802.11 325  2 Beacon frame, SN=2301, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  529 256.170424222 D-LinkIn_7d:53:8b → Broadcast    802.11 325  3 Beacon frame, SN=2302, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  530 256.329377413 Tp-LinkT_af:6a:2f → Broadcast    802.11 317  4 Beacon frame, SN=146, FN=0, Flags=........, BI=100, SSID=nfac
+  531 256.587156908 Tp-LinkT_53:67:fc → Broadcast    802.11 276  7 Beacon frame, SN=3117, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  532 256.689637736 Tp-LinkT_53:67:fc → Broadcast    802.11 276  7 Beacon frame, SN=3118, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  533 256.792034993 Tp-LinkT_53:67:fc → Broadcast    802.11 276  8 Beacon frame, SN=3119, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  534 256.906818622 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  9 Beacon frame, SN=2574, FN=0, Flags=........, BI=100, SSID=Athreya
+  535 257.009213885 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  10 Beacon frame, SN=2575, FN=0, Flags=........, BI=100, SSID=Athreya
+  536 257.125962884 D-LinkIn_43:7a:e0 → Broadcast    802.11 318  11 Beacon frame, SN=993, FN=0, Flags=........, BI=100, SSID=Metten
+  537 257.128374322 Tp-LinkT_73:ae:3b → Broadcast    802.11 305  11 Beacon frame, SN=3241, FN=0, Flags=........, BI=100, SSID=Guil
+  538 257.130452844 56:c7:bf:73:ae:3c → Broadcast    802.11 264  11 Beacon frame, SN=3242, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  539 257.160113581 BelkinIn_97:29:d5 → Broadcast    802.11 340  11 Beacon frame, SN=1800, FN=0, Flags=........, BI=100, SSID=Baaijens
+  540 257.263226423 BelkinIn_97:29:d5 → Broadcast    802.11 340  12 Beacon frame, SN=1801, FN=0, Flags=........, BI=100, SSID=Baaijens
+  541 257.460306656 Tp-LinkT_73:ae:3a → Broadcast    802.11 368  36 Beacon frame, SN=679, FN=0, Flags=........, BI=100, SSID=Guil 5G
+  542 257.461269800 Tp-LinkT_73:b1:66 → Broadcast    802.11 370  36 Beacon frame, SN=3967, FN=0, Flags=........, BI=100, SSID=Yowifi-5G
+  543 257.510165080 BelkinIn_97:29:d6 → Broadcast    802.11 318  36 Beacon frame, SN=1954, FN=0, Flags=........, BI=100, SSID=Baaijens
+  544 270.309513991 BelkinIn_8c:fe:a1 → Broadcast    802.11 248  1 Beacon frame, SN=1686, FN=0, Flags=........, BI=100, SSID=LinksysLinnie
+  545 270.328682174 Tp-LinkT_73:b1:67 → Broadcast    802.11 307  1 Beacon frame, SN=2114, FN=0, Flags=........, BI=100, SSID=Yowifi
+  546 270.355264536 Tp-LinkT_6b:78:9e → Broadcast    802.11 308  1 Beacon frame, SN=811, FN=0, Flags=........, BI=100, SSID=WiFie
+  547 270.361322238 D-LinkIn_43:72:64 → Broadcast    802.11 329  1 Beacon frame, SN=720, FN=0, Flags=........, BI=100, SSID=Bas Segaar 2.4GHz
+  548 270.374006096 BelkinIn_28:75:00 → Broadcast    802.11 290  1 Beacon frame, SN=426, FN=0, Flags=........, BI=100, SSID=Marcel Kempers
+  549 270.404044976 D-LinkIn_7d:53:8b → Broadcast    802.11 325  1 Beacon frame, SN=2457, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  550 270.457646122 Tp-LinkT_6b:78:9e → Broadcast    802.11 308  2 Beacon frame, SN=812, FN=0, Flags=........, BI=100, SSID=WiFie
+  551 270.506445726 D-LinkIn_7d:53:8b → Broadcast    802.11 325  2 Beacon frame, SN=2458, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  552 270.608772004 D-LinkIn_7d:53:8b → Broadcast    802.11 325  3 Beacon frame, SN=2459, FN=0, Flags=........, BI=100, SSID=Shaiv Parikh
+  553 270.665538232 Tp-LinkT_af:6a:2f → Broadcast    802.11 317  4 Beacon frame, SN=286, FN=0, Flags=........, BI=100, SSID=nfac
+  554 270.794700180 Intronic_97:d6:58 → Broadcast    802.11 317  5 Beacon frame, SN=701, FN=0, Flags=........, BI=100, SSID=Eminent
+  555 270.897102589 Intronic_97:d6:58 → Broadcast    802.11 317  5 Beacon frame, SN=702, FN=0, Flags=........, BI=100, SSID=Eminent
+  556 270.956178701 Tp-LinkT_33:9d:ae → Broadcast    802.11 312  6 Beacon frame, SN=3240, FN=0, Flags=........, BI=100, SSID=Slick Rick
+  557 270.960487140 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1280, FN=0, Flags=........, BI=100, SSID=Himanshu
+  558 271.128095913 Tp-LinkT_53:67:fc → Broadcast    802.11 276  7 Beacon frame, SN=3320, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  559 271.230497370 Tp-LinkT_53:67:fc → Broadcast    802.11 276  8 Beacon frame, SN=3321, FN=0, Flags=........, BI=100, SSID=TP-LINK Delft
+  560 271.242878741 Tp-LinkT_e6:8e:b2 → Broadcast    802.11 294  8 Beacon frame, SN=2745, FN=0, Flags=........, BI=100, SSID=Athreya
+  561 271.463996129 Tp-LinkT_73:ae:3b → Broadcast    802.11 305  10 Beacon frame, SN=3527, FN=0, Flags=........, BI=100, SSID=Guil
+  562 271.466022494 56:c7:bf:73:ae:3c → Broadcast    802.11 264  10 Beacon frame, SN=3528, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  563 271.520520531 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=3042, FN=0, Flags=........, BI=100, SSID=codroipo
+  564 271.568012972 56:c7:bf:73:ae:3c → Broadcast    802.11 264  11 Beacon frame, SN=3530, FN=0, Flags=........, BI=100, SSID=TP-LINK_Guest_AE3C
+  565 271.598465121 BelkinIn_97:29:d5 → Broadcast    802.11 340  11 Beacon frame, SN=1949, FN=0, Flags=........, BI=100, SSID=Baaijens
+  566 271.622887012 Tp-LinkT_42:4b:de → Broadcast    802.11 318  11 Beacon frame, SN=3043, FN=0, Flags=........, BI=100, SSID=codroipo
+  582 271.780276129 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1295, FN=0, Flags=........, BI=100, SSID=Himanshu
+  587 273.008880913 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1313, FN=0, Flags=........, BI=100, SSID=Himanshu
+  598 274.032867237 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1329, FN=0, Flags=........, BI=100, SSID=Himanshu
+  602 274.648417962 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1339, FN=0, Flags=........, BI=100, SSID=Himanshu
+  606 275.261672879 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1350, FN=0, Flags=........, BI=100, SSID=Himanshu
+  610 276.388094572 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1365, FN=0, Flags=........, BI=100, SSID=Himanshu
+  611 276.797700371 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1369, FN=0, Flags=........, BI=100, SSID=Himanshu
+  613 277.311850938 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1377, FN=0, Flags=........, BI=100, SSID=Himanshu
+  615 277.720493158 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1384, FN=0, Flags=........, BI=100, SSID=Himanshu
+  623 279.152860782 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1404, FN=0, Flags=........, BI=100, SSID=Himanshu
+  624 280.074472370 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1419, FN=0, Flags=........, BI=100, SSID=Himanshu
+  715 282.839255480 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1469, FN=0, Flags=........, BI=100, SSID=Himanshu
+  730 284.272825045 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1489, FN=0, Flags=........, BI=100, SSID=Himanshu
+  752 288.266490896 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1548, FN=0, Flags=........, BI=100, SSID=Himanshu
+  767 288.779693018 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1561, FN=0, Flags=........, BI=100, SSID=Himanshu
+  768 290.418100055 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=1587, FN=0, Flags=........, BI=100, SSID=Himanshu
+    5 18.839813953 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=1872, FN=0, Flags=........, BI=100, SSID=Himanshu
+    3 4.309910003 Netgear_13:e0:88 → Broadcast    802.11 319  6 Beacon frame, SN=483, FN=0, Flags=........, BI=100, SSID=Himanshu
+   17 7.241980873 BelkinIn_80:3c:84 → Broadcast    802.11 303  13 Beacon frame, SN=366, FN=0, Flags=........, BI=100, SSID=Linksys34731
+   13 67.510310881 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=1498, FN=0, Flags=........, BI=100, SSID=Himanshu
+   18 95.630343828 D-LinkIn_43:72:64 → Broadcast    802.11 329  2 Beacon frame, SN=1497, FN=0, Flags=........, BI=100, SSID=Bas Segaar 2.4GHz
+   34 121.373233750 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2043, FN=0, Flags=........, BI=100, SSID=Himanshu
+   35 123.216554539 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2061, FN=0, Flags=........, BI=100, SSID=Himanshu
+   36 124.445430573 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2073, FN=0, Flags=........, BI=100, SSID=Himanshu
+   37 125.059736724 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2079, FN=0, Flags=........, BI=100, SSID=Himanshu
+   38 127.517347558 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2103, FN=0, Flags=........, BI=100, SSID=Himanshu
+   39 129.360647748 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2121, FN=0, Flags=........, BI=100, SSID=Himanshu
+   41 130.079264550 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2133, FN=0, Flags=........, BI=100, SSID=Himanshu
+   42 132.637472229 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2159, FN=0, Flags=........, BI=100, SSID=Himanshu
+   43 136.323821921 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2197, FN=0, Flags=........, BI=100, SSID=Himanshu
+   44 136.938404550 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2203, FN=0, Flags=........, BI=100, SSID=Himanshu
+   45 137.552666912 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2209, FN=0, Flags=........, BI=100, SSID=Himanshu
+   46 138.781531270 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2221, FN=0, Flags=........, BI=100, SSID=Himanshu
+   47 139.600806877 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2229, FN=0, Flags=........, BI=100, SSID=Himanshu
+   48 142.468023884 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2257, FN=0, Flags=........, BI=100, SSID=Himanshu
+   49 143.287325963 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2265, FN=0, Flags=........, BI=100, SSID=Himanshu
+   50 145.642573807 Netgear_13:e0:88 → Broadcast    802.11 319  1 Beacon frame, SN=2290, FN=0, Flags=........, BI=100, SSID=Himanshu
+   54 146.935126901 D-LinkIn_43:72:64 → Broadcast    802.11 329  1 Beacon frame, SN=2021, FN=0, Flags=........, BI=100, SSID=Bas Segaar 2.4GHz
+   55 147.071365762 Tp-LinkT_d0:6e:4a → Broadcast    802.11 108  6 Beacon frame, SN=336, FN=0, Flags=........, BI=100, SSID=Barbar
+   61 213.607651317 fa:8f:ca:87:59:96 → Broadcast    802.11 181  1 Beacon frame, SN=1818, FN=0, Flags=........, BI=100, SSID=Broadcast
+   69 246.795928399 Tp-LinkT_e5:93:62 → Broadcast    802.11 275  8 Beacon frame, SN=2530, FN=0, Flags=........, BI=100, SSID=TP-LINK_9362
+   74 289.774659611 Apple_06:6e:b4 → Broadcast    802.11 306  6 Beacon frame, SN=1646, FN=0, Flags=........, BI=100, SSID=Alberto's Wi-Fi Network
+   80 289.903162580 SitecomE_8d:06:b4 → Broadcast    802.11 355  11 Beacon frame, SN=2970, FN=0, Flags=........, BI=100, SSID=Sitecom8D06B4
+   81 289.914155026 SitecomE_4a:3d:8f → Broadcast    802.11 319  12 Beacon frame, SN=3743, FN=0, Flags=........, BI=100, SSID=Hex2.4
+   83 292.197179792 Apple_05:4e:37 → Broadcast    802.11 382  149 Beacon frame, SN=2664, FN=0, Flags=........, BI=100, SSID=Red Wi-Fi de Beatriz
+   95 531.663174326 BelkinIn_28:8f:ac → Broadcast    802.11 283  2 Beacon frame, SN=3898, FN=0, Flags=........, BI=100, SSID=--Alo--
+   97 532.170457144 Tp-LinkT_99:de:6a → Broadcast    802.11 318  44 Beacon frame, SN=1363, FN=0, Flags=........, BI=100, SSID=\000\000\000\000\000\000\000\000\000\000\000\000
+   98 532.170855903 56:c7:bf:99:de:6b → Broadcast    802.11 316  44 Beacon frame, SN=1364, FN=0, Flags=........, BI=100, SSID=\000\000\000\000\000\000\000\000\000\000
+  100 594.700477648 EdimaxTe_a2:70:f9 → Broadcast    802.11 339  2 Beacon frame, SN=77, FN=0, Flags=........, BI=100, SSID=goaway
+  105 594.910890628 BelkinIn_a9:a4:7d → Broadcast    802.11 288  11 Beacon frame, SN=1229, FN=0, Flags=........, BI=100, SSID=Kelly's Wifi
+  108 594.936626744 Apple_0a:ea:fe → Broadcast    802.11 293  12 Beacon frame, SN=3639, FN=0, Flags=........, BI=100, SSID=Delft-2382
+  109 595.802032651 Apple_0a:ea:ff → Broadcast    802.11 354  100 Beacon frame, SN=1139, FN=0, Flags=........, BI=100, SSID=Delft-2382
+  111 596.648660917 Apple_e9:2d:e1 → Broadcast    802.11 283  132 Beacon frame, SN=3562, FN=0, Flags=........, BI=100, SSID=Wifinetwerk van Marjanne
+  119 657.914811884 BelkinIn_2a:1f:ec → Broadcast    802.11 280  11 Beacon frame, SN=3407, FN=0, Flags=........, BI=100, SSID=SMBV
+  120 657.916376203 BelkinIn_2a:1f:ed → Broadcast    802.11 203  11 Beacon frame, SN=3408, FN=0, Flags=........, BI=100, SSID=SMBV-gast
+  125 720.665965072 BelkinIn_7b:1d:48 → Broadcast    802.11 285  1 Beacon frame, SN=698, FN=0, Flags=........, BI=100, SSID=Napoleon2
+  129 783.646347115 Tp-LinkT_ea:10:cd → Broadcast    802.11 323  1 Beacon frame, SN=3630, FN=0, Flags=........, BI=100, SSID=Zwevend Internet
+  136 783.897920465 BelkinIn_28:92:c9 → Broadcast    802.11 205  11 Beacon frame, SN=2543, FN=0, Flags=........, BI=100, SSID=!WIFI!-gast
+  140 784.011408786 Netgear_85:5e:a9 → Broadcast    802.11 356  13 Beacon frame, SN=2792, FN=0, Flags=........, BI=100, SSID=The Internet
+  141 784.035356938 Tp-LinkT_46:68:04 → Broadcast    802.11 340  40 Beacon frame, SN=2560, FN=0, Flags=........, BI=100, SSID=TP-LINK_6805_5G
+  145 784.080959272 Tp-LinkT_ea:10:cc → Broadcast    802.11 320  44 Beacon frame, SN=712, FN=0, Flags=........, BI=100, SSID=Vliegend Internet
+  148 847.641678184 AsustekC_8b:9b:1c → Broadcast    802.11 376  100 Beacon frame, SN=3648, FN=0, Flags=........, BI=100, SSID=PrimaWifi_5G
+  150 909.738983094 Tp-LinkT_40:c4:a8 → Broadcast    802.11 288  5 Beacon frame, SN=2230, FN=0, Flags=........, BI=100, SSID=Zakkenhooi
+  151 910.618528552 AsustekC_8b:9b:1c → Broadcast    802.11 376  100 Beacon frame, SN=224, FN=0, Flags=........, BI=100, SSID=PrimaWifi_5G
+  155 972.827148455 Tp-LinkT_ee:fb:e6 → Broadcast    802.11 339  8 Beacon frame, SN=759, FN=0, Flags=........, BI=100, SSID=Netwerk Arnoud
+  157 973.012145768 Tp-LinkT_61:65:d6 → Broadcast    802.11 375  48 Beacon frame, SN=130, FN=0, Flags=........, BI=100, SSID=TP-LINK_65D8_5G
+  159 1035.658186801 AsustekC_94:f5:48 → Broadcast    802.11 313  1 Beacon frame, SN=3675, FN=0, Flags=........, BI=100, SSID=Harambe
+  161 1035.666803956 BelkinIn_3d:27:04 → Broadcast    802.11 315  2 Beacon frame, SN=367, FN=0, Flags=........, BI=100, SSID=FastMitch2.4
+  165 1035.717335024 Tp-LinkT_85:c5:6b → Broadcast    802.11 312  4 Beacon frame, SN=126, FN=0, Flags=........, BI=100, SSID=Oussama
+  166 1035.731109449 Tp-LinkT_c8:31:89 → Broadcast    802.11 297  4 Beacon frame, SN=3580, FN=0, Flags=........, BI=100, SSID=TP-Link_3189
+  167 1035.858669181 ProwareT_78:72:08 → Broadcast    802.11 368  10 Beacon frame, SN=3110, FN=0, Flags=........, BI=100, SSID=ICIDU
+  172 1098.643976906 BelkinIn_3d:27:04 → Broadcast    802.11 315  2 Beacon frame, SN=999, FN=0, Flags=........, BI=100, SSID=FastMitch2.4
+  174 1098.694200192 Tp-LinkT_85:c5:6b → Broadcast    802.11 312  4 Beacon frame, SN=741, FN=0, Flags=........, BI=100, SSID=Oussama
+  176 1098.869114468 ProwareT_78:72:08 → Broadcast    802.11 368  11 Beacon frame, SN=3725, FN=0, Flags=........, BI=100, SSID=ICIDU
+  183 1161.619720390 Tp-LinkT_22:34:64 → Broadcast    802.11 315  1 Beacon frame, SN=2205, FN=0, Flags=........, BI=100, SSID=lemoncustard
+  187 1161.737570152 Tp-LinkT_cd:c7:e4 → Broadcast    802.11 297  6 Beacon frame, SN=2234, FN=0, Flags=........, BI=100, SSID=omeloeks
+  198 1224.662347755 Tp-LinkT_c8:31:89 → Broadcast    802.11 297  3 Beacon frame, SN=1392, FN=0, Flags=........, BI=100, SSID=TP-Link_3189
+  208 1224.914976388 AsustekC_81:79:40 → Broadcast    802.11 323  13 Beacon frame, SN=3473, FN=0, Flags=........, BI=100, SSID=EFRASUS
+  213 1225.680436622 AsustekC_b2:a1:ec → Broadcast    802.11 323  108 Beacon frame, SN=651, FN=0, Flags=........, BI=100, SSID=RoyalAirForce_5G
+  217 1287.646732203 BelkinIn_0e:51:ce → Broadcast    802.11 178  1 Beacon frame, SN=813, FN=0, Flags=........, BI=100, SSID=belkin54g
+  218 1287.707467496 AsustekC_d1:d8:00 → Broadcast    802.11 322  4 Beacon frame, SN=3563, FN=0, Flags=........, BI=100, SSID=MiLANnium Falcon
+  233 1413.863951340 BelkinIn_f8:bc:1a → Broadcast    802.11 334  11 Beacon frame, SN=2867, FN=0, Flags=........, BI=100, SSID=CelineWLAN
+  236 1539.693537345 Tp-LinkT_85:cb:fb → Broadcast    802.11 321  3 Beacon frame, SN=1557, FN=0, Flags=........, BI=100, SSID=Ballonnen 2.4GHz
+  237 1539.897671735 Tp-LinkT_fe:5c:96 → Broadcast    802.11 299  11 Beacon frame, SN=3143, FN=0, Flags=........, BI=100, SSID=IPPwhenIPooPoo
+  240 1602.770781790 Tp-LinkT_e8:51:ee → Broadcast    802.11 308  5 Beacon frame, SN=1344, FN=0, Flags=........, BI=100, SSID=The password is Pizza
+  246 1602.912760813 D-LinkIn_43:7f:d0 → Broadcast    802.11 340  11 Beacon frame, SN=2871, FN=0, Flags=........, BI=100, SSID=Mom, click here for internet
+  247 1602.915349364 Tp-LinkT_ba:46:5b → Broadcast    802.11 254  11 Beacon frame, SN=186, FN=0, Flags=........, BI=100, SSID=\000\000\000\000\000\000\000\000
+  250 1602.974289878 D-LinkIn_43:7f:d2 → Broadcast    802.11 335  36 Beacon frame, SN=97, FN=0, Flags=........, BI=100, SSID=McDonald's Free WiFi
+  254 1665.629329140 Netgear_5d:e6:75 → Broadcast    802.11 324  2 Beacon frame, SN=3737, FN=0, Flags=........, BI=100, SSID=Michiel de Router
+  255 1665.806069392 1a:d6:c7:a4:83:ec → Broadcast    802.11 315  9 Beacon frame, SN=3204, FN=0, Flags=........, BI=100, SSID=I'm Mr. Meeseeks, look at me!
+  258 1728.874669593 Ubiquiti_d7:cc:c9 → Broadcast    802.11 296  11 Beacon frame, SN=3188, FN=0, Flags=........, BI=100, SSID=stu-delft4-gr
+  263 1728.937371121 Tp-LinkT_02:66:dc → Broadcast    802.11 308  36 Beacon frame, SN=584, FN=0, Flags=........, BI=100, SSID=TP-Link_66DD_5G
+   13 21.944438197 Avm_ae:f7:16 → Broadcast    802.11 215  1 Beacon frame, SN=1960, FN=0, Flags=........, BI=100, SSID=FRITZ!Box Fon WLAN 7170 Annex A
+   15 21.960712116 FidaInte_17:b8:27 → Broadcast    802.11 326  1 Beacon frame, SN=1162, FN=0, Flags=........, BI=100, SSID=RatNet
+   17 22.030052208 D-LinkIn_e6:93:b7 → Broadcast    802.11 358  4 Beacon frame, SN=547, FN=0, Flags=........, BI=100, SSID=dlink-93B7
+   18 22.095715872 SamsungE_24:ba:68 → Broadcast    802.11 316  6 Beacon frame, SN=849, FN=0, Flags=........, BI=100, SSID=UPC240362636
+   20 22.141087482 Netgear_92:a0:c6 → Broadcast    802.11 299  7 Beacon frame, SN=3184, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+   25 22.240354518 00:c8:9f:92:ce:e6 → Broadcast    802.11 139  10 Beacon frame, SN=202, FN=0, Flags=........, BI=100, SSID=FUZY
+   26 22.293443302 SitecomE_ad:e0:1c → Broadcast    802.11 355  12 Beacon frame, SN=1016, FN=0, Flags=........, BI=100, SSID=SitecomADE01C
+   27 22.307919973 SamsungE_b4:00:85 → Broadcast    802.11 253  13 Beacon frame, SN=1961, FN=0, Flags=........, BI=100, SSID=Broadcast
+   28 22.317544406 Cisco-Li_7f:5d:24 → Broadcast    802.11 164  13 Beacon frame, SN=836, FN=0, Flags=........, BI=100, SSID=tplink
+   46 35.432871820 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=831, FN=0, Flags=........, BI=100, SSID=goede_morgan
+   47 38.093324717 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=872, FN=0, Flags=........, BI=100, SSID=goede_morgan
+   70 47.924145074 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1030, FN=0, Flags=........, BI=100, SSID=goede_morgan
+   81 62.056553113 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1189, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  185 141.945846932 fa:8f:ca:68:24:bd → Broadcast    802.11 180  1 Beacon frame, SN=748, FN=0, Flags=........, BI=100, SSID=Broadcast
+  187 141.959670221 Avm_ae:f7:16 → Broadcast    802.11 215  1 Beacon frame, SN=3316, FN=0, Flags=........, BI=100, SSID=FRITZ!Box Fon WLAN 7170 Annex A
+  189 141.977871139 FidaInte_17:b8:27 → Broadcast    802.11 326  2 Beacon frame, SN=2680, FN=0, Flags=........, BI=100, SSID=RatNet
+  193 142.044259635 AsustekC_61:da:f0 → Broadcast    802.11 259  5 Beacon frame, SN=424, FN=0, Flags=........, BI=100, SSID=claudo2
+  195 142.047247587 5e:e0:c5:84:a0:58 → Broadcast    802.11 340  5 Beacon frame, SN=2662, FN=0, Flags=........, BI=100, SSID=DIRECT-DMRLUImsM1
+  199 142.120792106 AsustekC_35:ef:14 → Broadcast    802.11 311  7 Beacon frame, SN=3829, FN=0, Flags=........, BI=100, SSID=jhkim
+  204 142.155705261 Netgear_92:a0:c6 → Broadcast    802.11 299  8 Beacon frame, SN=452, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+  208 142.251447566 Apple_02:c8:51 → Broadcast    802.11 269  11 Beacon frame, SN=362, FN=0, Flags=........, BI=100, SSID=PingWing Boven
+  257 162.513761775 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2359, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  258 163.129089750 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2365, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  260 163.742680339 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2372, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  263 164.665928645 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2383, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  271 167.839133993 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2420, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  289 168.044724947 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2422, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  292 168.966134539 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2433, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  296 170.603706568 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2452, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  297 171.115971615 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2461, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  298 172.959074937 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2479, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  299 173.582580836 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2486, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  300 174.497304414 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2496, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  302 175.417555856 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2507, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  304 176.031186500 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2515, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  317 181.561066709 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2596, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  318 182.175407140 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2603, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  319 182.892080323 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2614, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  320 183.405286365 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2619, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  322 184.735458698 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2637, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  323 185.042637007 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2640, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  324 185.350075529 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2646, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  326 186.169189762 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2656, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  327 186.476449526 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2659, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  328 187.911834802 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=2676, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  331 190.316330198 D-LinkIn_d8:62:5c → Broadcast    802.11 358  3 Beacon frame, SN=2705, FN=0, Flags=........, BI=100, SSID=Panda_2.4G
+  335 190.402690539 Tp-LinkT_5c:51:38 → Broadcast    802.11 257  6 Beacon frame, SN=3210, FN=0, Flags=........, BI=100, SSID=Black Wadada
+  337 190.457488601 SitecomE_03:cf:10 → Broadcast    802.11 197  8 Beacon frame, SN=1237, FN=0, Flags=........, BI=100, SSID=No Need
+  341 205.124644963 Tp-LinkT_e8:63:e2 → Broadcast    802.11 294  1 Beacon frame, SN=3670, FN=0, Flags=........, BI=100, SSID=David W
+  342 205.134210571 c6:e9:84:c8:60:13 → Broadcast    802.11 308  1 Beacon frame, SN=2744, FN=0, Flags=........, BI=100, SSID=Starchoo_Guest
+  346 205.549262254 Tp-LinkT_c8:60:12 → Broadcast    802.11 300  40 Beacon frame, SN=2515, FN=0, Flags=........, BI=100, SSID=Starchoo_5G
+  347 205.549598789 c6:e9:84:c8:60:12 → Broadcast    802.11 287  40 Beacon frame, SN=2516, FN=0, Flags=........, BI=100, SSID=Starchoo_Guest_5G
+  356 206.104358219 AsustekC_a5:03:04 → Broadcast    802.11 263  64 Beacon frame, SN=241, FN=0, Flags=........, BI=100, SSID=asdfasdfasdf
+  357 206.141974475 Comtrend_b4:8e:2c → Broadcast    802.11 315  100 Beacon frame, SN=2973, FN=0, Flags=........, BI=100, SSID=ziggo-ap-8395110
+  358 207.682196574 Tp-LinkT_be:5f:16 → Broadcast    802.11 381  161 Beacon frame, SN=1008, FN=0, Flags=........, BI=100, SSID=TP-LINK_5GHz_BE5F16
+  361 229.981204070 AsustekC_86:15:e0 → Broadcast    802.11 245  2 Beacon frame, SN=2399, FN=0, Flags=........, BI=100, SSID=\000\000\000
+  362 230.050010158 XiaomiEl_39:57:c8 → Broadcast    802.11 364  5 Beacon frame, SN=3790, FN=0, Flags=........, BI=100, SSID=Xiaomi_57C7
+  363 230.063262499 EdimaxTe_50:a8:1e → Broadcast    802.11 347  5 Beacon frame, SN=1470, FN=0, Flags=........, BI=100, SSID=edimax_2.4BR
+  365 230.092799935 AsustekC_83:f5:f8 → Broadcast    802.11 288  6 Beacon frame, SN=2370, FN=0, Flags=........, BI=100, SSID=ASUS B.Diddy
+  369 230.127289345 SitecomE_03:cf:10 → Broadcast    802.11 197  8 Beacon frame, SN=1675, FN=0, Flags=........, BI=100, SSID=No Need
+  372 230.192650000 Cisco-Li_7f:5d:24 → Broadcast    802.11 164  11 Beacon frame, SN=2526, FN=0, Flags=........, BI=100, SSID=tplink
+  375 230.260086131 AsustekC_34:e8:28 → Broadcast    802.11 319  13 Beacon frame, SN=3766, FN=0, Flags=........, BI=100, SSID=IthurtswhenIP
+  391 232.557869248 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3218, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  393 232.660808042 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3223, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  395 232.763056943 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3224, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  398 233.070316073 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3228, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  399 233.172780160 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3229, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  403 233.786870816 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3235, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  408 233.992323626 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3240, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  409 234.095194759 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3241, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  412 234.299099024 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3244, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  414 234.401607556 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3245, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  416 234.504004055 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3247, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  419 234.811183783 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3251, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  461 236.142475847 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3276, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  465 236.552066603 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3281, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  472 236.859192501 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3285, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  473 237.167284757 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3290, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  478 237.481456228 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3296, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  565 238.397174407 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3313, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  567 238.805085961 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3319, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  569 239.009773483 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3321, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  582 240.545844996 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3338, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  587 240.648266724 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3339, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  590 240.854682800 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3341, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  591 240.956512767 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3342, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  592 241.774685338 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3354, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  603 243.927327371 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3379, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  610 244.744784856 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3387, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  658 246.281029920 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3408, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  691 248.328717911 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3430, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  696 249.352522217 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3442, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  697 249.659804877 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3445, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  698 250.173511167 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3451, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  707 252.220361513 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3480, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  708 254.165551479 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3504, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  709 255.701734739 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3522, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  710 255.946440939 Tp-LinkT_10:35:5b → Broadcast    802.11 297  1 Beacon frame, SN=2806, FN=0, Flags=........, BI=100, SSID=TP-Link_355B
+  711 256.020349376 D-LinkIn_e6:93:b7 → Broadcast    802.11 358  4 Beacon frame, SN=2832, FN=0, Flags=........, BI=100, SSID=dlink-93B7
+  712 256.033375128 Tp-LinkT_f9:88:33 → Broadcast    802.11 257  5 Beacon frame, SN=1144, FN=0, Flags=........, BI=100, SSID=TP-LINK_8833
+  714 256.128369371 TendaTec_43:3e:c8 → Broadcast    802.11 232  7 Beacon frame, SN=2712, FN=0, Flags=........, BI=100, SSID=Tenda_433EC8
+  716 256.187592731 EdimaxTe_69:40:55 → Broadcast    802.11 144  10 Beacon frame, SN=152, FN=0, Flags=........, BI=100, SSID=GB Hotspot
+  719 256.242401514 Tp-LinkT_7c:42:54 → Broadcast    802.11 314  11 Beacon frame, SN=1944, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254
+  722 260.823554787 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3579, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  723 260.925974077 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3580, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  733 262.531844916 Tp-LinkT_31:f9:8c → Broadcast    802.11 229  6 Beacon frame, SN=871, FN=0, Flags=........, BI=100, SSID=Dipendra
+  734 262.534437781 BelkinIn_40:79:e7 → Broadcast    802.11 331  6 Beacon frame, SN=686, FN=0, Flags=........, BI=100, SSID=Linksys13238
+  735 262.543809440 AsustekC_35:ef:14 → Broadcast    802.11 311  7 Beacon frame, SN=909, FN=0, Flags=........, BI=100, SSID=jhkim
+  739 262.688083840 Tp-LinkT_7c:42:54 → Broadcast    802.11 314  12 Beacon frame, SN=2012, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254
+  740 262.714857730 Intronic_97:19:d4 → Broadcast    802.11 314  13 Beacon frame, SN=3530, FN=0, Flags=........, BI=100, SSID=Ding
+  743 270.057664116 Tp-LinkT_28:6a:d6 → Broadcast    802.11 284  6 Beacon frame, SN=357, FN=0, Flags=........, BI=100, SSID=It's gonna be Fantastic
+  744 270.060039060 c2:56:27:40:79:e7 → Broadcast    802.11 284  6 Beacon frame, SN=3352, FN=0, Flags=........, BI=100, SSID=Linksys13238-guest
+  745 270.067060019 Tp-LinkT_65:ad:81 → Broadcast    802.11 368  6 Beacon frame, SN=3798, FN=0, Flags=........, BI=100, SSID=HuizeSteeghs-2.4G
+  746 270.159597298 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=1276, FN=0, Flags=........, BI=100, SSID=Latem125
+  747 270.173221380 TendaTec_19:67:28 → Broadcast    802.11 232  10 Beacon frame, SN=2503, FN=0, Flags=........, BI=100, SSID=Tenda_196728
+  748 270.252515188 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=2202, FN=0, Flags=........, BI=100, SSID=HZN241205278
+  749 270.257577573 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=1800, FN=0, Flags=........, BI=100, SSID=Aerod
+  752 270.276942078 Tp-LinkT_7c:42:53 → Broadcast    802.11 329  36 Beacon frame, SN=2948, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254_5G
+  753 270.283988140 Tp-LinkT_65:ad:80 → Broadcast    802.11 338  36 Beacon frame, SN=1500, FN=0, Flags=........, BI=100, SSID=HuizeSteeghs-5G
+  755 270.302475696 Netgear_11:ad:82 → Broadcast    802.11 310  40 Beacon frame, SN=840, FN=0, Flags=........, BI=100, SSID=Baseplate-5G
+  759 270.936372594 AsustekC_50:ed:44 → Broadcast    802.11 310  100 Beacon frame, SN=202, FN=0, Flags=........, BI=100, SSID=Latem125_5G
+  761 278.077381115 Cisco-Li_ce:e9:bb → Broadcast    802.11 284  1 Beacon frame, SN=2058, FN=0, Flags=........, BI=100, SSID=6EN20
+  762 278.093199024 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=1593, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  767 278.258122288 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=4056, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  769 278.502190081 Cisco-Li_8e:59:a8 → Broadcast    802.11 314  48 Beacon frame, SN=2901, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  772 280.532818929 Netgear_25:2e:f8 → Broadcast    802.11 314  1 Beacon frame, SN=2509, FN=0, Flags=........, BI=100, SSID=NETGEAR45
+  773 280.553375041 D-LinkIn_db:2d:e0 → Broadcast    802.11 327  1 Beacon frame, SN=368, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  774 280.564755969 Tp-LinkT_fe:55:61 → Broadcast    802.11 297  1 Beacon frame, SN=1444, FN=0, Flags=........, BI=100, SSID=TP-Link_5561
+  775 280.637434068 Cisco-Li_ce:e9:bb → Broadcast    802.11 284  1 Beacon frame, SN=2090, FN=0, Flags=........, BI=100, SSID=6EN20
+  776 280.653225113 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  2 Beacon frame, SN=1621, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  777 280.728559472 EdimaxTe_53:64:40 → Broadcast    802.11 275  2 Beacon frame, SN=3668, FN=0, Flags=........, BI=100, SSID=IsenN
+  778 280.737691927 Netgear_25:2e:f8 → Broadcast    802.11 314  2 Beacon frame, SN=2511, FN=0, Flags=........, BI=100, SSID=NETGEAR45
+  779 280.755718982 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  2 Beacon frame, SN=1622, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  780 280.790674623 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  3 Beacon frame, SN=2232, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  781 280.832774851 EdimaxTe_53:64:40 → Broadcast    802.11 275  3 Beacon frame, SN=3670, FN=0, Flags=........, BI=100, SSID=IsenN
+  782 280.888456076 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  3 Beacon frame, SN=2235, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  784 280.951687700 Cisco-Li_ce:e9:bb → Broadcast    802.11 284  1 Beacon frame, SN=2096, FN=0, Flags=........, BI=100, SSID=6EN20
+  786 281.047936844 Tp-LinkT_23:89:3e → Broadcast    802.11 292  5 Beacon frame, SN=1795, FN=0, Flags=........, BI=100, SSID=VH 61
+  788 281.125629177 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=301, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  791 281.171183135 Tp-LinkT_6b:89:3a → Broadcast    802.11 312  10 Beacon frame, SN=1139, FN=0, Flags=........, BI=100, SSID=WinternetIsComing
+  793 281.214693568 D-LinkIn_d8:73:48 → Broadcast    802.11 353  12 Beacon frame, SN=1907, FN=0, Flags=........, BI=100, SSID=Aerod
+  794 281.217375599 D-LinkIn_45:b9:da → Broadcast    802.11 334  12 Beacon frame, SN=175, FN=0, Flags=........, BI=100, SSID=sp_901
+  797 283.418040718 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=1651, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  798 283.448914730 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2278, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  799 283.552128598 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2280, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  800 283.654574723 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  3 Beacon frame, SN=2281, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  801 283.710368786 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=1850, FN=0, Flags=........, BI=100, SSID=VH 61
+  802 283.750434675 Tp-LinkT_fc:0a:ab → Broadcast    802.11 323  4 Beacon frame, SN=1122, FN=0, Flags=........, BI=100, SSID=AliceSChen
+  803 283.863926013 Cisco-Li_8c:ad:a6 → Broadcast    802.11 136  5 Beacon frame, SN=3009, FN=0, Flags=........, BI=100, SSID=wu43
+  804 283.966328293 Cisco-Li_8c:ad:a6 → Broadcast    802.11 136  6 Beacon frame, SN=3010, FN=0, Flags=........, BI=100, SSID=wu43
+  805 283.976552542 08:10:77:15:81:6d → Broadcast    802.11 322  6 Beacon frame, SN=3887, FN=0, Flags=........, BI=100, SSID=Meer wifi Meer beter
+  806 284.095137841 Tp-LinkT_61:37:ae → Broadcast    802.11 275  7 Beacon frame, SN=388, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  807 284.197578666 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=389, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  808 284.291450644 AsustekC_50:ed:40 → Broadcast    802.11 276  8 Beacon frame, SN=1447, FN=0, Flags=........, BI=100, SSID=Latem125
+  809 284.394667470 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=1448, FN=0, Flags=........, BI=100, SSID=Latem125
+  810 284.447838121 AsustekC_42:80:30 → Broadcast    802.11 278  10 Beacon frame, SN=3678, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  811 284.461062917 D-LinkIn_48:37:81 → Broadcast    802.11 357  10 Beacon frame, SN=338, FN=0, Flags=........, BI=100, SSID=Hasselt_8
+  812 284.548591387 Zte_37:2d:e2 → Broadcast    802.11 313  11 Beacon frame, SN=3055, FN=0, Flags=........, BI=100, SSID=De Snorrenkoning
+  813 284.551074064 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=3680, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  814 284.652635939 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=3681, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  815 284.678381767 SitecomE_45:82:ff → Broadcast    802.11 326  12 Beacon frame, SN=3569, FN=0, Flags=........, BI=100, SSID=Sitecom4582FF
+  816 284.699104175 D-LinkIn_45:b9:da → Broadcast    802.11 334  12 Beacon frame, SN=209, FN=0, Flags=........, BI=100, SSID=sp_901
+  817 284.740616104 Intronic_95:f0:44 → Broadcast    802.11 316  12 Beacon frame, SN=2321, FN=0, Flags=........, BI=100, SSID=Hertog
+  818 284.798707874 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=1942, FN=0, Flags=........, BI=100, SSID=Aerod
+  819 284.883196169 SitecomE_45:82:ff → Broadcast    802.11 326  13 Beacon frame, SN=3571, FN=0, Flags=........, BI=100, SSID=Sitecom4582FF
+  820 297.784773959 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  1 Beacon frame, SN=2539, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  821 297.841150874 Cisco-Li_ce:e9:bb → Broadcast    802.11 284  1 Beacon frame, SN=2283, FN=0, Flags=........, BI=100, SSID=6EN20
+  822 297.887157932 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2540, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  823 297.932325582 EdimaxTe_53:64:40 → Broadcast    802.11 275  2 Beacon frame, SN=3879, FN=0, Flags=........, BI=100, SSID=IsenN
+  824 297.989800941 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2541, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  825 298.034592189 EdimaxTe_53:64:40 → Broadcast    802.11 275  3 Beacon frame, SN=3880, FN=0, Flags=........, BI=100, SSID=IsenN
+  826 298.149245925 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2071, FN=0, Flags=........, BI=100, SSID=VH 61
+  827 298.251644626 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2072, FN=0, Flags=........, BI=100, SSID=VH 61
+  828 298.406468045 Cisco-Li_8c:ad:a6 → Broadcast    802.11 136  6 Beacon frame, SN=3151, FN=0, Flags=........, BI=100, SSID=wu43
+  829 298.636394932 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=723, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  830 298.738793492 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=724, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  831 298.833451760 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=1640, FN=0, Flags=........, BI=100, SSID=Latem125
+  832 298.989165024 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=3866, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  833 299.031101738 SitecomE_24:db:b0 → Broadcast    802.11 311  11 Beacon frame, SN=2239, FN=0, Flags=........, BI=100, SSID=Sitecom24DBB0
+  834 299.035339100 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=380, FN=0, Flags=........, BI=100, SSID=sp_901
+  835 299.052441626 BelkinIn_28:a4:41 → Broadcast    802.11 211  11 Beacon frame, SN=1804, FN=0, Flags=........, BI=100, SSID=MagentaLion-guest
+  836 299.094818375 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=3867, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  837 299.137793853 D-LinkIn_45:b9:da → Broadcast    802.11 334  12 Beacon frame, SN=381, FN=0, Flags=........, BI=100, SSID=sp_901
+  838 299.237471322 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=2083, FN=0, Flags=........, BI=100, SSID=Aerod
+  839 299.321866458 SitecomE_45:82:ff → Broadcast    802.11 326  13 Beacon frame, SN=3712, FN=0, Flags=........, BI=100, SSID=Sitecom4582FF
+  840 299.330284292 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=2486, FN=0, Flags=........, BI=100, SSID=HZN241205278
+  841 299.339838975 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=2084, FN=0, Flags=........, BI=100, SSID=Aerod
+  842 312.296014565 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=2021, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  843 312.326105972 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  1 Beacon frame, SN=2880, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  844 312.383398639 Intronic_97:1b:98 → Broadcast    802.11 317  2 Beacon frame, SN=2844, FN=0, Flags=........, BI=100, SSID=BEAM112
+  845 312.397825147 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  2 Beacon frame, SN=2022, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  846 312.429721655 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2881, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  847 312.588072543 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2322, FN=0, Flags=........, BI=100, SSID=VH 61
+  848 312.690477656 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2323, FN=0, Flags=........, BI=100, SSID=VH 61
+  849 312.845983329 Cisco-Li_8c:ad:a6 → Broadcast    802.11 136  6 Beacon frame, SN=3292, FN=0, Flags=........, BI=100, SSID=wu43
+  850 313.075202045 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=1014, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  851 313.177605066 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=1015, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  852 313.372460579 D-LinkIn_45:b9:da → Broadcast    802.11 334  10 Beacon frame, SN=532, FN=0, Flags=........, BI=100, SSID=sp_901
+  853 313.429697445 AsustekC_42:80:30 → Broadcast    802.11 278  10 Beacon frame, SN=4042, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  854 313.469977770 SitecomE_24:db:b0 → Broadcast    802.11 311  11 Beacon frame, SN=2380, FN=0, Flags=........, BI=100, SSID=Sitecom24DBB0
+  855 313.530467038 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=4043, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  856 313.576547795 D-LinkIn_45:b9:da → Broadcast    802.11 334  12 Beacon frame, SN=536, FN=0, Flags=........, BI=100, SSID=sp_901
+  857 313.678957979 D-LinkIn_45:b9:da → Broadcast    802.11 334  12 Beacon frame, SN=537, FN=0, Flags=........, BI=100, SSID=sp_901
+  858 313.778504456 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=2225, FN=0, Flags=........, BI=100, SSID=Aerod
+  859 313.966342455 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  1 Beacon frame, SN=2909, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  860 314.013267947 EdimaxTe_53:64:40 → Broadcast    802.11 275  3 Beacon frame, SN=4063, FN=0, Flags=........, BI=100, SSID=IsenN
+  861 314.021590250 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2348, FN=0, Flags=........, BI=100, SSID=VH 61
+  862 314.190815930 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=542, FN=0, Flags=........, BI=100, SSID=sp_901
+  863 316.380275458 Intronic_97:1b:98 → Broadcast    802.11 317  1 Beacon frame, SN=2908, FN=0, Flags=........, BI=100, SSID=BEAM112
+  864 316.391648721 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=2078, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  865 316.479533905 Intronic_97:1b:98 → Broadcast    802.11 317  2 Beacon frame, SN=2913, FN=0, Flags=........, BI=100, SSID=BEAM112
+  866 316.493594202 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  2 Beacon frame, SN=2081, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  867 316.525016657 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  2 Beacon frame, SN=2963, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  868 316.569492883 EdimaxTe_53:64:40 → Broadcast    802.11 275  3 Beacon frame, SN=4091, FN=0, Flags=........, BI=100, SSID=IsenN
+  869 316.672828494 EdimaxTe_53:64:40 → Broadcast    802.11 275  3 Beacon frame, SN=4092, FN=0, Flags=........, BI=100, SSID=IsenN
+  870 316.786531932 Tp-LinkT_23:89:3e → Broadcast    802.11 292  4 Beacon frame, SN=2381, FN=0, Flags=........, BI=100, SSID=VH 61
+  871 316.889026935 Tp-LinkT_23:89:3e → Broadcast    802.11 292  5 Beacon frame, SN=2382, FN=0, Flags=........, BI=100, SSID=VH 61
+  872 317.367594978 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=1908, FN=0, Flags=........, BI=100, SSID=Latem125
+  873 317.566119690 SitecomE_24:db:b0 → Broadcast    802.11 311  11 Beacon frame, SN=2420, FN=0, Flags=........, BI=100, SSID=Sitecom24DBB0
+  874 317.570064520 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=575, FN=0, Flags=........, BI=100, SSID=sp_901
+  875 317.626634899 AsustekC_42:80:30 → Broadcast    802.11 278  11 Beacon frame, SN=4092, FN=0, Flags=........, BI=100, SSID=ASUS_Robin
+  876 317.668527654 SitecomE_24:db:b0 → Broadcast    802.11 311  11 Beacon frame, SN=2421, FN=0, Flags=........, BI=100, SSID=Sitecom24DBB0
+  877 330.829642190 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=2277, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  878 330.861153278 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  1 Beacon frame, SN=3192, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  879 330.972311779 Netgear_dd:97:78 → Broadcast    802.11 318  2 Beacon frame, SN=1619, FN=0, Flags=........, BI=100, SSID=ARK
+  880 331.384210244 Cisco-Li_8c:ad:a6 → Broadcast    802.11 136  6 Beacon frame, SN=3473, FN=0, Flags=........, BI=100, SSID=wu43
+  881 331.509877519 Tp-LinkT_61:37:ae → Broadcast    802.11 275  7 Beacon frame, SN=1431, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  882 331.712594223 Tp-LinkT_61:37:ae → Broadcast    802.11 275  8 Beacon frame, SN=1433, FN=0, Flags=........, BI=100, SSID=TP-LINK_37AE
+  883 331.806234485 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=2100, FN=0, Flags=........, BI=100, SSID=Latem125
+  884 332.008853549 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=733, FN=0, Flags=........, BI=100, SSID=sp_901
+  885 332.058132556 CompalBr_d1:c5:91 → Broadcast    802.11 367  11 Beacon frame, SN=2791, FN=0, Flags=........, BI=100, SSID=ZiggoDB3BBCC
+  886 332.111317843 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=734, FN=0, Flags=........, BI=100, SSID=sp_901
+  887 332.295431852 SitecomE_45:82:ff → Broadcast    802.11 326  13 Beacon frame, SN=4034, FN=0, Flags=........, BI=100, SSID=Sitecom4582FF
+  888 332.304194697 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=2808, FN=0, Flags=........, BI=100, SSID=HZN241205278
+  889 345.251605203 Netgear_25:2e:f8 → Broadcast    802.11 314  1 Beacon frame, SN=3166, FN=0, Flags=........, BI=100, SSID=NETGEAR45
+  890 345.270803819 D-LinkIn_db:2d:e0 → Broadcast    802.11 327  1 Beacon frame, SN=1299, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+  891 345.300969224 Cisco-Li_8e:59:a6 → Broadcast    802.11 342  1 Beacon frame, SN=3378, FN=0, Flags=........, BI=100, SSID=Gilang Network
+  892 345.357316440 Intronic_97:1b:98 → Broadcast    802.11 317  2 Beacon frame, SN=3262, FN=0, Flags=........, BI=100, SSID=BEAM112
+  893 345.456710136 Netgear_25:2e:f8 → Broadcast    802.11 314  2 Beacon frame, SN=3168, FN=0, Flags=........, BI=100, SSID=NETGEAR45
+  894 345.459660532 Intronic_97:1b:98 → Broadcast    802.11 317  2 Beacon frame, SN=3263, FN=0, Flags=........, BI=100, SSID=BEAM112
+  895 345.656939046 Netgear_11:ad:80 → Broadcast    802.11 332  4 Beacon frame, SN=973, FN=0, Flags=........, BI=100, SSID=Baseplate
+  896 345.747129335 4a:c8:62:02:a1:2b → Broadcast    802.11 243  5 Beacon frame, SN=1116, FN=0, Flags=........, BI=100, SSID=#Skyroam_a2u
+  897 345.759230575 Netgear_11:ad:80 → Broadcast    802.11 332  5 Beacon frame, SN=974, FN=0, Flags=........, BI=100, SSID=Baseplate
+  898 345.844059227 Tp-LinkT_65:ad:81 → Broadcast    802.11 368  6 Beacon frame, SN=745, FN=0, Flags=........, BI=100, SSID=HuizeSteeghs-2.4G
+  899 345.850090724 4a:c8:62:02:a1:2b → Broadcast    802.11 243  6 Beacon frame, SN=1118, FN=0, Flags=........, BI=100, SSID=#Skyroam_a2u
+  900 345.889524499 BelkinIn_40:79:e7 → Broadcast    802.11 331  6 Beacon frame, SN=1554, FN=0, Flags=........, BI=100, SSID=Linksys13238
+  901 345.936694338 Tp-LinkT_28:6a:d6 → Broadcast    802.11 284  6 Beacon frame, SN=1192, FN=0, Flags=........, BI=100, SSID=It's gonna be Fantastic
+  902 345.946493820 Tp-LinkT_65:ad:81 → Broadcast    802.11 368  6 Beacon frame, SN=746, FN=0, Flags=........, BI=100, SSID=HuizeSteeghs-2.4G
+  903 345.952147541 4a:c8:62:02:a1:2b → Broadcast    802.11 243  6 Beacon frame, SN=1120, FN=0, Flags=........, BI=100, SSID=#Skyroam_a2u
+  904 345.983090265 BestItWo_9d:f3:60 → Broadcast    802.11 224  7 Beacon frame, SN=2695, FN=0, Flags=........, BI=100, SSID=Anup
+  905 346.144723955 AsustekC_50:ed:40 → Broadcast    802.11 276  8 Beacon frame, SN=2330, FN=0, Flags=........, BI=100, SSID=Latem125
+  906 346.245040254 AsustekC_50:ed:40 → Broadcast    802.11 276  9 Beacon frame, SN=2331, FN=0, Flags=........, BI=100, SSID=Latem125
+  907 346.262974762 TendaTec_19:67:28 → Broadcast    802.11 232  9 Beacon frame, SN=3330, FN=0, Flags=........, BI=100, SSID=Tenda_196728
+  908 346.346490759 AsustekC_50:ed:40 → Broadcast    802.11 276  10 Beacon frame, SN=2332, FN=0, Flags=........, BI=100, SSID=Latem125
+  909 346.360691025 TendaTec_19:67:28 → Broadcast    802.11 232  10 Beacon frame, SN=3331, FN=0, Flags=........, BI=100, SSID=Tenda_196728
+  910 346.363531237 Tp-LinkT_28:02:7f → Broadcast    802.11 318  10 Beacon frame, SN=3690, FN=0, Flags=........, BI=100, SSID=Wifi not Wifi
+  911 346.390729604 SamsungE_5e:71:4b → Broadcast    802.11 271  10 Beacon frame, SN=1632, FN=0, Flags=........, BI=100, SSID=AndroidAP
+  912 346.448208210 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=900, FN=0, Flags=........, BI=100, SSID=sp_901
+  913 346.472746914 SitecomE_44:9a:06 → Broadcast    802.11 140  11 Beacon frame, SN=1694, FN=0, Flags=........, BI=100, SSID=Sitecom
+  914 346.476448424 SitecomE_03:b8:d8 → Broadcast    802.11 290  11 Beacon frame, SN=1986, FN=0, Flags=........, BI=100, SSID=ZH44
+  915 346.489348171 Intronic_95:f0:44 → Broadcast    802.11 316  11 Beacon frame, SN=2938, FN=0, Flags=........, BI=100, SSID=Hertog
+  916 346.493144159 SamsungE_5e:71:4b → Broadcast    802.11 271  11 Beacon frame, SN=1633, FN=0, Flags=........, BI=100, SSID=AndroidAP
+  917 346.501738353 Tp-LinkT_7c:42:54 → Broadcast    802.11 314  11 Beacon frame, SN=2940, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254
+  918 346.550098256 D-LinkIn_45:b9:da → Broadcast    802.11 334  11 Beacon frame, SN=901, FN=0, Flags=........, BI=100, SSID=sp_901
+  919 346.561857870 SitecomE_4a:2e:02 → Broadcast    802.11 328  11 Beacon frame, SN=3735, FN=0, Flags=........, BI=100, SSID=Sitecom_Zagorci
+  920 346.591749829 Intronic_95:f0:44 → Broadcast    802.11 316  12 Beacon frame, SN=2939, FN=0, Flags=........, BI=100, SSID=Hertog
+  921 346.740546875 Intronic_97:d6:64 → Broadcast    802.11 317  13 Beacon frame, SN=1638, FN=0, Flags=........, BI=100, SSID=Eminent
+  922 346.752135117 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=2547, FN=0, Flags=........, BI=100, SSID=Aerod
+  923 346.796457222 Intronic_95:f0:44 → Broadcast    802.11 316  13 Beacon frame, SN=2941, FN=0, Flags=........, BI=100, SSID=Hertog
+  924 347.002465280 Netgear_11:ad:82 → Broadcast    802.11 310  40 Beacon frame, SN=1623, FN=0, Flags=........, BI=100, SSID=Baseplate-5G
+  925 347.074660852 c2:56:27:40:79:e8 → Broadcast    802.11 245  44 Beacon frame, SN=547, FN=0, Flags=........, BI=100, SSID=Linksys13238_5GHz-guest
+  926 347.739071363 AsustekC_50:ed:44 → Broadcast    802.11 310  100 Beacon frame, SN=1028, FN=0, Flags=........, BI=100, SSID=Latem125_5G
+  927 357.036301483 Tp-LinkT_f9:88:33 → Broadcast    802.11 257  4 Beacon frame, SN=2233, FN=0, Flags=........, BI=100, SSID=TP-LINK_8833
+  930 357.096439987 TendaTec_43:3e:c8 → Broadcast    802.11 232  7 Beacon frame, SN=3774, FN=0, Flags=........, BI=100, SSID=Tenda_433EC8
+  933 357.193161232 BelkinIn_f0:b6:ee → Broadcast    802.11 327  11 Beacon frame, SN=379, FN=0, Flags=........, BI=100, SSID=belkin.36ee
+  936 359.517874482 Netgear_2d:1e:25 → Broadcast    802.11 319  1 Beacon frame, SN=3417, FN=0, Flags=........, BI=100, SSID=pesce
+  937 359.615953914 XiaomiEl_66:7e:c7 → Broadcast    802.11 377  2 Beacon frame, SN=160, FN=0, Flags=........, BI=100, SSID=Piemoltje van Gerrit 2018
+  938 359.688591332 FidaInte_17:b8:27 → Broadcast    802.11 326  3 Beacon frame, SN=1158, FN=0, Flags=........, BI=100, SSID=RatNet
+  939 359.856922183 D-LinkIn_e6:93:b7 → Broadcast    802.11 358  4 Beacon frame, SN=3846, FN=0, Flags=........, BI=100, SSID=dlink-93B7
+  940 359.883901291 Routerbo_90:f0:f8 → Broadcast    802.11 314  4 Beacon frame, SN=2001, FN=0, Flags=........, BI=100, SSID=SillyNet
+  941 359.944677855 Tp-LinkT_24:58:28 → Broadcast    802.11 299  5 Beacon frame, SN=3610, FN=0, Flags=........, BI=100, SSID=TP-LINK_5828
+  942 359.969678442 c2:56:27:40:79:e7 → Broadcast    802.11 284  5 Beacon frame, SN=452, FN=0, Flags=........, BI=100, SSID=Linksys13238-guest
+  943 360.015325920 EdimaxTe_50:a8:1e → Broadcast    802.11 347  5 Beacon frame, SN=3044, FN=0, Flags=........, BI=100, SSID=edimax_2.4BR
+  944 360.032359177 HewlettP_03:6f:d7 → Broadcast    802.11 452  6 Beacon frame, SN=2391, FN=0, Flags=........, BI=100, SSID=DIRECT-D6-HP DeskJet 2600 series
+  945 360.035654997 Tp-LinkT_46:43:66 → Broadcast    802.11 315  6 Beacon frame, SN=3149, FN=0, Flags=........, BI=100, SSID=TP-LINK_4366
+  946 360.043097218 ae:22:35:ad:ce:77 → Broadcast    802.11 282  6 Beacon frame, SN=2935, FN=0, Flags=........, BI=100, SSID=APiet Heyn
+  947 360.071948643 c2:56:27:40:79:e7 → Broadcast    802.11 284  6 Beacon frame, SN=453, FN=0, Flags=........, BI=100, SSID=Linksys13238-guest
+  948 360.106364550 Tp-LinkT_f9:88:33 → Broadcast    802.11 257  6 Beacon frame, SN=2267, FN=0, Flags=........, BI=100, SSID=TP-LINK_8833
+  949 360.123523279 BelkinIn_40:79:e7 → Broadcast    802.11 331  6 Beacon frame, SN=1718, FN=0, Flags=........, BI=100, SSID=Linksys13238
+  950 360.171627525 Netgear_92:a0:c6 → Broadcast    802.11 299  7 Beacon frame, SN=2931, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+  953 360.235600299 AsustekC_35:ef:14 → Broadcast    802.11 311  7 Beacon frame, SN=1863, FN=0, Flags=........, BI=100, SSID=jhkim
+  954 360.337916464 AsustekC_35:ef:14 → Broadcast    802.11 311  8 Beacon frame, SN=1864, FN=0, Flags=........, BI=100, SSID=jhkim
+  955 360.358284674 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=787, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  956 360.535424314 EdimaxTe_69:40:55 → Broadcast    802.11 144  10 Beacon frame, SN=1269, FN=0, Flags=........, BI=100, SSID=GB Hotspot
+  957 360.637822821 EdimaxTe_69:40:55 → Broadcast    802.11 144  10 Beacon frame, SN=1270, FN=0, Flags=........, BI=100, SSID=GB Hotspot
+  958 360.665008829 BelkinIn_f0:b6:ee → Broadcast    802.11 327  11 Beacon frame, SN=416, FN=0, Flags=........, BI=100, SSID=belkin.36ee
+  959 360.714251592 Tp-LinkT_e2:00:7c → Broadcast    802.11 295  11 Beacon frame, SN=1419, FN=0, Flags=........, BI=100, SSID=Muesli
+  960 360.729987880 Tp-LinkT_7c:42:54 → Broadcast    802.11 314  11 Beacon frame, SN=3146, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254
+  961 360.740213616 EdimaxTe_69:40:55 → Broadcast    802.11 144  11 Beacon frame, SN=1271, FN=0, Flags=........, BI=100, SSID=GB Hotspot
+  962 360.767424096 BelkinIn_f0:b6:ee → Broadcast    802.11 327  11 Beacon frame, SN=417, FN=0, Flags=........, BI=100, SSID=belkin.36ee
+  963 360.870658304 BelkinIn_f0:b6:ee → Broadcast    802.11 327  12 Beacon frame, SN=418, FN=0, Flags=........, BI=100, SSID=belkin.36ee
+  964 360.874640595 SamsungE_b4:62:a7 → Broadcast    802.11 316  12 Beacon frame, SN=3087, FN=0, Flags=........, BI=100, SSID=HZN241205278
+  965 360.903151173 Tp-LinkT_39:6b:4e → Broadcast    802.11 321  13 Beacon frame, SN=224, FN=0, Flags=........, BI=100, SSID=HierIsJeVerdomdeInternet
+  966 360.951616305 SamsungE_b4:00:85 → Broadcast    802.11 253  13 Beacon frame, SN=1172, FN=0, Flags=........, BI=100, SSID=Broadcast
+  967 360.977053890 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=3088, FN=0, Flags=........, BI=100, SSID=HZN241205278
+  968 361.106094857 Tp-LinkT_46:43:65 → Broadcast    802.11 340  36 Beacon frame, SN=2629, FN=0, Flags=........, BI=100, SSID=TP-LINK_4366_5G
+  969 361.109645571 Tp-LinkT_7c:42:53 → Broadcast    802.11 329  36 Beacon frame, SN=3866, FN=0, Flags=........, BI=100, SSID=TP-LINK_4254_5G
+  970 361.299712458 Netgear_92:a0:c7 → Broadcast    802.11 263  44 Beacon frame, SN=3965, FN=0, Flags=........, BI=100, SSID=NETGEAR36-5G
+  985 364.147697244 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=842, FN=0, Flags=........, BI=100, SSID=goede_morgan
+  998 366.093261519 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=872, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1028 369.575105327 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=926, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1030 369.883140684 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=929, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1034 370.189903710 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=933, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1035 370.394842474 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=936, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1037 370.599135201 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=939, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1038 370.804672036 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=942, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1042 371.008814225 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=946, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1043 371.315861146 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=950, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1045 371.726405448 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=964, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1049 371.930343627 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=969, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1053 372.036179503 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=971, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1056 372.050694519 Netgear_92:a0:c6 → Broadcast    802.11 299  8 Beacon frame, SN=3116, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+ 1061 372.226521086 Tp-LinkT_99:f2:00 → Broadcast    802.11 217  2 Beacon frame, SN=2953, FN=0, Flags=........, BI=100, SSID=HuiseJ2
+ 1063 372.259471994 XiaomiEl_23:3d:b8 → Broadcast    802.11 357  3 Beacon frame, SN=3939, FN=0, Flags=........, BI=100, SSID=Arsel
+ 1064 372.266639998 EdimaxTe_c5:8c:f0 → Broadcast    802.11 335  3 Beacon frame, SN=3486, FN=0, Flags=........, BI=100, SSID=MK
+ 1066 372.305099372 EdimaxTe_50:a8:1e → Broadcast    802.11 347  5 Beacon frame, SN=3258, FN=0, Flags=........, BI=100, SSID=edimax_2.4BR
+ 1067 372.346006866 AsustekC_61:da:f0 → Broadcast    802.11 259  6 Beacon frame, SN=3434, FN=0, Flags=........, BI=100, SSID=claudo2
+ 1068 372.357854059 Netgear_92:a0:c6 → Broadcast    802.11 299  7 Beacon frame, SN=3123, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+ 1091 374.798537569 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1026, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1093 374.900030126 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1030, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1094 375.002522519 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1031, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1095 375.207342580 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1033, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1099 376.128935277 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1043, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1100 376.640989903 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1048, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1138 381.863580896 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1128, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1164 382.580464241 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1144, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1171 382.887656914 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1150, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1183 383.195084286 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1156, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1197 384.423687531 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1171, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1203 384.730940017 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1187, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1218 385.756690498 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1198, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1232 387.599069093 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1231, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1245 390.465361225 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1271, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1249 391.796756031 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1287, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1251 392.412895518 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1296, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1252 392.615844355 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1309, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1262 398.965360949 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1389, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1315 400.093019915 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1401, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1375 401.115613057 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1420, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1378 406.542765436 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1479, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1383 407.669156907 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1492, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1384 408.898111151 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1504, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1388 409.998446231 XiaomiEl_66:7e:c7 → Broadcast    802.11 377  3 Beacon frame, SN=712, FN=0, Flags=........, BI=100, SSID=Piemoltje van Gerrit 2018
+ 1389 410.046029874 Netgear_92:a0:c6 → Broadcast    802.11 299  5 Beacon frame, SN=3793, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+ 1399 410.434410072 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1531, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1407 411.970486738 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1547, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1408 413.236843253 XiaomiEl_66:7e:c8 → Broadcast    802.11 396  149 Beacon frame, SN=3964, FN=0, Flags=........, BI=100, SSID=Piemoltje van Gerrit 2018_5G
+ 1409 415.452207690 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1583, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1410 415.964304071 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1589, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1413 416.273233234 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1593, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1423 419.456348228 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1628, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1427 424.158300017 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1692, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1428 424.771059674 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1699, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1430 425.802189380 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1714, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1437 427.126827587 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1739, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1438 428.254494166 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1754, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1464 434.704222240 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=1833, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1485 454.105227434 FidaInte_17:b8:27 → Broadcast    802.11 326  2 Beacon frame, SN=2282, FN=0, Flags=........, BI=100, SSID=RatNet
+ 1486 479.212311010 Tp-LinkT_b2:35:72 → Broadcast    802.11 381  11 Beacon frame, SN=1258, FN=0, Flags=........, BI=100, SSID=cat network
+ 1489 482.188331919 Tp-LinkT_b2:35:72 → Broadcast    802.11 381  11 Beacon frame, SN=1298, FN=0, Flags=........, BI=100, SSID=cat network
+ 1491 537.958995653 D-LinkIn_7c:e0:03 → Broadcast    802.11 330  1 Beacon frame, SN=2074, FN=0, Flags=........, BI=100, SSID=thestrangelibrary
+ 1492 537.967532347 D-LinkIn_64:1d:0a → Broadcast    802.11 279  2 Beacon frame, SN=1722, FN=0, Flags=........, BI=100, SSID=dlink
+ 1495 538.044933462 Tp-LinkT_da:c5:b2 → Broadcast    802.11 357  5 Beacon frame, SN=153, FN=0, Flags=........, BI=100, SSID=Kollmorgen3
+ 1496 538.055754877 SitecomE_25:12:c4 → Broadcast    802.11 273  5 Beacon frame, SN=1233, FN=0, Flags=........, BI=100, SSID=Mitchell
+ 1498 538.075905564 Tp-LinkT_a2:c1:22 → Broadcast    802.11 357  6 Beacon frame, SN=2010, FN=0, Flags=........, BI=100, SSID=Kollmorgen1
+ 1499 538.232568469 SamsungE_81:c5:07 → Broadcast    802.11 253  13 Beacon frame, SN=3645, FN=0, Flags=........, BI=100, SSID=Broadcast
+ 1502 581.113506651 Tp-LinkT_e6:bb:ba → Broadcast    802.11 299  6 Beacon frame, SN=995, FN=0, Flags=........, BI=100, SSID=TP-LINK_BBBA
+ 1503 581.187372899 Tp-LinkT_20:39:c6 → Broadcast    802.11 220  9 Beacon frame, SN=1184, FN=0, Flags=........, BI=100, SSID=Code
+ 1507 581.298080785 Tp-LinkT_d5:42:07 → Broadcast    802.11 296  36 Beacon frame, SN=3106, FN=0, Flags=........, BI=100, SSID=TP-LINK_4208_5G
+ 1508 633.988312667 Tp-LinkT_bb:bd:77 → Broadcast    802.11 311  1 Beacon frame, SN=2701, FN=0, Flags=........, BI=100, SSID=Wolveprent
+ 1510 634.012627130 D-LinkIn_7c:e0:03 → Broadcast    802.11 330  2 Beacon frame, SN=3114, FN=0, Flags=........, BI=100, SSID=thestrangelibrary
+ 1511 634.019758775 D-LinkIn_64:1d:0a → Broadcast    802.11 279  2 Beacon frame, SN=2756, FN=0, Flags=........, BI=100, SSID=dlink
+ 1512 634.065674500 Tp-LinkT_d9:91:60 → Broadcast    802.11 275  4 Beacon frame, SN=2001, FN=0, Flags=........, BI=100, SSID=TP-LINK_9160
+ 1514 634.109849025 SitecomE_25:12:c4 → Broadcast    802.11 273  6 Beacon frame, SN=2171, FN=0, Flags=........, BI=100, SSID=Mitchell
+ 1517 634.179423902 Tp-LinkT_ea:74:e8 → Broadcast    802.11 292  9 Beacon frame, SN=3936, FN=0, Flags=........, BI=100, SSID=SAN29
+ 1523 634.282694311 Intronic_97:d5:b0 → Broadcast    802.11 313  13 Beacon frame, SN=3670, FN=0, Flags=........, BI=100, SSID=367
+ 1526 696.998164529 D-LinkIn_64:1d:0a → Broadcast    802.11 279  1 Beacon frame, SN=3434, FN=0, Flags=........, BI=100, SSID=dlink
+ 1527 697.061926837 Cisco-Li_52:41:d3 → Broadcast    802.11 189  3 Beacon frame, SN=3849, FN=0, Flags=........, BI=100, SSID=We have your penguin
+ 1532 697.202895706 SitecomE_06:fd:08 → Broadcast    802.11 253  9 Beacon frame, SN=4030, FN=0, Flags=........, BI=100, SSID=Sitecom06FD08
+ 1550 823.081851190 Tp-LinkT_0f:76:cc → Broadcast    802.11 308  6 Beacon frame, SN=1704, FN=0, Flags=........, BI=100, SSID=Potter
+ 1552 823.158866590 Tp-LinkT_54:88:4c → Broadcast    802.11 286  9 Beacon frame, SN=3937, FN=0, Flags=........, BI=100, SSID=TP-LINK_54884C
+ 1554 823.189272038 UsRoboti_fb:c2:59 → Broadcast    802.11 176  10 Beacon frame, SN=2279, FN=0, Flags=........, BI=100, SSID=USR9108
+ 1557 823.230525624 AsustekC_a4:5f:28 → Broadcast    802.11 318  12 Beacon frame, SN=440, FN=0, Flags=........, BI=100, SSID=Omar Alhafez
+ 1560 886.003604329 Tp-LinkT_61:3e:df → Broadcast    802.11 313  1 Beacon frame, SN=1792, FN=0, Flags=........, BI=100, SSID=TP-LINK_3EE0
+ 1561 886.010813813 BelkinIn_68:40:68 → Broadcast    802.11 283  1 Beacon frame, SN=1642, FN=0, Flags=........, BI=100, SSID=julieta
+ 1562 886.047937094 ZyxelCom_c9:d0:3a → Broadcast    802.11 321  3 Beacon frame, SN=597, FN=0, Flags=........, BI=100, SSID=Muffin
+ 1563 886.079481932 Tp-LinkT_d9:91:60 → Broadcast    802.11 275  4 Beacon frame, SN=938, FN=0, Flags=........, BI=100, SSID=TP-LINK_9160
+ 1564 886.122251061 Intronic_97:d2:50 → Broadcast    802.11 318  6 Beacon frame, SN=1675, FN=0, Flags=........, BI=100, SSID=Isengard
+ 1565 886.175492692 BelkinIn_15:40:d6 → Broadcast    802.11 345  8 Beacon frame, SN=2272, FN=0, Flags=........, BI=100, SSID=TinoD
+ 1566 886.236670285 Netgear_04:76:cf → Broadcast    802.11 227  11 Beacon frame, SN=1898, FN=0, Flags=........, BI=100, SSID=Ether_nomap
+ 1568 886.291148779 AsustekC_b6:25:38 → Broadcast    802.11 318  13 Beacon frame, SN=2761, FN=0, Flags=........, BI=100, SSID=Floofiest Doges
+ 1569 886.307279890 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=26, FN=0, Flags=........, BI=100, SSID=HZN241205278
+ 1570 948.948765004 BelkinIn_11:02:4c → Broadcast    802.11 285  1 Beacon frame, SN=3539, FN=0, Flags=........, BI=100, SSID=Jachthuis
+ 1571 948.964942264 Tp-LinkT_ec:02:bd → Broadcast    802.11 317  2 Beacon frame, SN=1477, FN=0, Flags=........, BI=100, SSID=SOD_OFF_2.4G
+ 1572 949.013571167 Routerbo_90:f0:f8 → Broadcast    802.11 314  4 Beacon frame, SN=509, FN=0, Flags=........, BI=100, SSID=SillyNet
+ 1573 949.028121685 Tp-LinkT_92:e8:c8 → Broadcast    802.11 295  4 Beacon frame, SN=181, FN=0, Flags=........, BI=100, SSID=the Adhi's
+ 1574 949.064298294 Cisco-Li_7d:ba:b0 → Broadcast    802.11 266  6 Beacon frame, SN=2147, FN=0, Flags=........, BI=100, SSID=$30/mins
+ 1579 1012.007158133 BelkinIn_50:2e:5a → Broadcast    802.11 281  1 Beacon frame, SN=74, FN=0, Flags=........, BI=100, SSID=Nikki
+ 1580 1012.265709266 BelkinIn_86:e6:e4 → Broadcast    802.11 303  12 Beacon frame, SN=3535, FN=0, Flags=........, BI=100, SSID=Linksys09865
+ 1582 1074.982129322 AsustekC_d2:a9:b4 → Broadcast    802.11 320  1 Beacon frame, SN=1515, FN=0, Flags=........, BI=100, SSID=ASUS_B4
+ 1583 1074.996744152 D-LinkIn_d6:73:8b → Broadcast    802.11 174  2 Beacon frame, SN=2440, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+ 1584 1075.041593099 Tp-LinkT_55:c4:ac → Broadcast    802.11 296  4 Beacon frame, SN=2386, FN=0, Flags=........, BI=100, SSID=appelstroop
+ 1591 1075.125038378 Cisco-Li_7d:ba:b0 → Broadcast    802.11 266  7 Beacon frame, SN=3347, FN=0, Flags=........, BI=100, SSID=$30/mins
+ 1595 1075.219334596 Apple_e7:5e:18 → Broadcast    802.11 244  11 Beacon frame, SN=3282, FN=0, Flags=........, BI=100, SSID=Qnet
+ 1598 1075.417529102 Epigram_1e:50:18 → Broadcast    802.11 266  52 Beacon frame, SN=1187, FN=0, Flags=........, BI=100, SSID=May the Fi be with you
+ 1600 1077.236405188 Netgear_e7:b5:bf → Broadcast    802.11 274  153 Beacon frame, SN=2559, FN=0, Flags=........, BI=100, SSID=Yung Boeing Full speed
+ 1602 1137.965259237 Cisco-Li_94:eb:5a → Broadcast    802.11 238  1 Beacon frame, SN=3583, FN=0, Flags=........, BI=100, SSID=Kostas-network
+ 1603 1137.967681881 BelkinIn_1a:e7:7b → Broadcast    802.11 285  1 Beacon frame, SN=691, FN=0, Flags=........, BI=100, SSID=Cambridge
+ 1604 1137.972089373 Tp-LinkT_3e:d4:5c → Broadcast    802.11 320  1 Beacon frame, SN=3827, FN=0, Flags=........, BI=100, SSID=Jasmine
+ 1605 1138.019032614 Tp-LinkT_40:9d:7c → Broadcast    802.11 322  3 Beacon frame, SN=1659, FN=0, Flags=........, BI=100, SSID=Anne-Liza
+ 1609 1138.083029943 Tp-LinkT_fd:dc:ce → Broadcast    802.11 291  6 Beacon frame, SN=1074, FN=0, Flags=........, BI=100, SSID=Blue
+ 1612 1138.179817889 Tp-LinkT_b2:35:72 → Broadcast    802.11 381  10 Beacon frame, SN=2690, FN=0, Flags=........, BI=100, SSID=cat network
+ 1613 1138.202789944 Netgear_48:92:ca → Broadcast    802.11 301  11 Beacon frame, SN=534, FN=0, Flags=........, BI=100, SSID=NETGEAR95
+ 1620 1201.057120120 Tp-LinkT_74:f1:d0 → Broadcast    802.11 298  3 Beacon frame, SN=1932, FN=0, Flags=........, BI=100, SSID=love is in the air <3
+ 1621 1201.074662840 Tp-LinkT_d3:12:a0 → Broadcast    802.11 294  4 Beacon frame, SN=257, FN=0, Flags=........, BI=100, SSID=Promise
+ 1624 1201.241865610 Tp-LinkT_92:aa:ce → Broadcast    802.11 252  11 Beacon frame, SN=811, FN=0, Flags=........, BI=100, SSID=GoogleZ
+ 1626 1201.271901172 BelkinIn_81:df:1a → Broadcast    802.11 303  12 Beacon frame, SN=3458, FN=0, Flags=........, BI=100, SSID=Linksys00391
+ 1627 1201.290933067 Intronic_97:d6:64 → Broadcast    802.11 317  13 Beacon frame, SN=2044, FN=0, Flags=........, BI=100, SSID=Eminent
+ 1632 1201.337110152 Tp-LinkT_3e:d4:5b → Broadcast    802.11 299  44 Beacon frame, SN=401, FN=0, Flags=........, BI=100, SSID=Jasmine
+ 1634 1264.014827032 AsustekC_d2:a9:b4 → Broadcast    802.11 320  2 Beacon frame, SN=3682, FN=0, Flags=........, BI=100, SSID=ASUS_B4
+ 1635 1264.048414521 EdimaxTe_50:a7:fa → Broadcast    802.11 342  3 Beacon frame, SN=2127, FN=0, Flags=........, BI=100, SSID=Ssqaure
+ 1636 1264.113621430 XiaomiEl_39:57:c8 → Broadcast    802.11 364  6 Beacon frame, SN=3371, FN=0, Flags=........, BI=100, SSID=Xiaomi_57C7
+ 1637 1264.115642655 Tp-LinkT_5c:51:38 → Broadcast    802.11 257  6 Beacon frame, SN=3087, FN=0, Flags=........, BI=100, SSID=Black Wadada
+ 1638 1264.129940612 FonTechn_88:9d:d0 → Broadcast    802.11 353  7 Beacon frame, SN=1065, FN=0, Flags=........, BI=100, SSID=Hutspot
+ 1639 1264.140945212 Tp-LinkT_79:26:be → Broadcast    802.11 296  7 Beacon frame, SN=568, FN=0, Flags=........, BI=100, SSID=Il Biondo
+ 1641 1264.253477192 SitecomE_0f:8b:ac → Broadcast    802.11 299  12 Beacon frame, SN=1224, FN=0, Flags=........, BI=100, SSID=Sitecom0F8BAC
+ 1645 1264.286440398 AsustekC_a4:93:c0 → Broadcast    802.11 338  13 Beacon frame, SN=64, FN=0, Flags=........, BI=100, SSID=alisamm
+ 1647 1265.197193520 82:2a:a8:cb:8e:97 → Broadcast    802.11 278  112 Beacon frame, SN=479, FN=0, Flags=........, BI=100, SSID=S_5GHz
+ 1648 1266.173471485 Tp-LinkT_92:dc:ea → Broadcast    802.11 297  157 Beacon frame, SN=1667, FN=0, Flags=........, BI=100, SSID=Anarchy1
+ 1652 1326.989838163 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  1 Beacon frame, SN=464, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+ 1653 1327.099625605 Tp-LinkT_fe:0c:c0 → Broadcast    802.11 298  5 Beacon frame, SN=649, FN=0, Flags=........, BI=100, SSID=TP-LINK_196
+ 1654 1327.217538995 Tp-LinkT_92:aa:ce → Broadcast    802.11 252  10 Beacon frame, SN=2241, FN=0, Flags=........, BI=100, SSID=GoogleZ
+ 1659 1327.263988611 BelkinIn_86:e6:e4 → Broadcast    802.11 303  12 Beacon frame, SN=2949, FN=0, Flags=........, BI=100, SSID=Linksys09865
+ 1667 1327.827136295 AsustekC_5d:59:24 → Broadcast    802.11 329  100 Beacon frame, SN=1455, FN=0, Flags=........, BI=100, SSID=Geen WIFI in de club_5G
+ 1668 1389.981924675 FidaInte_17:b8:27 → Broadcast    802.11 326  1 Beacon frame, SN=969, FN=0, Flags=........, BI=100, SSID=RatNet
+ 1669 1389.995817989 XiaomiEl_66:7e:c7 → Broadcast    802.11 377  2 Beacon frame, SN=3167, FN=0, Flags=........, BI=100, SSID=Piemoltje van Gerrit 2018
+ 1673 1390.042870523 Tp-LinkT_80:db:da → Broadcast    802.11 378  4 Beacon frame, SN=3787, FN=0, Flags=........, BI=100, SSID=ModernDayCocaine
+ 1678 1390.183860853 Tp-LinkT_c8:ca:56 → Broadcast    802.11 293  10 Beacon frame, SN=269, FN=0, Flags=........, BI=100, SSID=fsociety
+ 1680 1390.247125327 D-LinkIn_c8:74:2c → Broadcast    802.11 355  12 Beacon frame, SN=62, FN=0, Flags=........, BI=100, SSID=J51
+ 1684 1390.271182191 Tp-LinkT_39:6b:4e → Broadcast    802.11 321  13 Beacon frame, SN=2084, FN=0, Flags=........, BI=100, SSID=HierIsJeVerdomdeInternet
+ 1690 1452.976355781 XiaomiEl_66:7e:c7 → Broadcast    802.11 377  2 Beacon frame, SN=3895, FN=0, Flags=........, BI=100, SSID=Piemoltje van Gerrit 2018
+ 1695 1453.015315170 XiaomiEl_23:3d:b8 → Broadcast    802.11 357  3 Beacon frame, SN=4038, FN=0, Flags=........, BI=100, SSID=Arsel
+ 1702 1453.208010744 Tp-LinkT_51:67:10 → Broadcast    802.11 345  11 Beacon frame, SN=556, FN=0, Flags=........, BI=100, SSID=Zonder_Draad
+ 1706 1453.248049737 Tp-LinkT_39:6b:4e → Broadcast    802.11 321  13 Beacon frame, SN=2699, FN=0, Flags=........, BI=100, SSID=HierIsJeVerdomdeInternet
+ 1707 1453.258182461 AsustekC_34:e8:28 → Broadcast    802.11 319  13 Beacon frame, SN=3421, FN=0, Flags=........, BI=100, SSID=IthurtswhenIP
+ 1708 1516.022148644 D-LinkIn_f2:85:d5 → Broadcast    802.11 327  2 Beacon frame, SN=2428, FN=0, Flags=........, BI=100, SSID=D-Link_DIR-615
+ 1709 1516.034811416 Tp-LinkT_23:89:3e → Broadcast    802.11 292  3 Beacon frame, SN=2148, FN=0, Flags=........, BI=100, SSID=VH 61
+ 1710 1516.106314040 Tp-LinkT_65:ad:81 → Broadcast    802.11 368  6 Beacon frame, SN=1152, FN=0, Flags=........, BI=100, SSID=HuizeSteeghs-2.4G
+ 1711 1516.205748076 D-LinkIn_45:b9:da → Broadcast    802.11 334  10 Beacon frame, SN=1524, FN=0, Flags=........, BI=100, SSID=sp_901
+ 1715 1516.232310445 Tp-LinkT_92:aa:ce → Broadcast    802.11 252  11 Beacon frame, SN=658, FN=0, Flags=........, BI=100, SSID=GoogleZ
+ 1719 1516.294824989 D-LinkIn_d8:73:48 → Broadcast    802.11 353  13 Beacon frame, SN=1680, FN=0, Flags=........, BI=100, SSID=Aerod
+ 1722 1579.101289614 XiaomiEl_39:57:c8 → Broadcast    802.11 364  5 Beacon frame, SN=2946, FN=0, Flags=........, BI=100, SSID=Xiaomi_57C7
+ 1723 1579.104359291 Tp-LinkT_5c:51:38 → Broadcast    802.11 257  5 Beacon frame, SN=2613, FN=0, Flags=........, BI=100, SSID=Black Wadada
+ 1729 1579.253301547 SitecomE_ad:e0:1c → Broadcast    802.11 355  11 Beacon frame, SN=3932, FN=0, Flags=........, BI=100, SSID=SitecomADE01C
+ 1730 1642.000448448 FidaInte_17:b8:27 → Broadcast    802.11 326  1 Beacon frame, SN=4020, FN=0, Flags=........, BI=100, SSID=RatNet
+ 1731 1642.121030312 EdimaxTe_50:a8:1e → Broadcast    802.11 347  6 Beacon frame, SN=544, FN=0, Flags=........, BI=100, SSID=edimax_2.4BR
+ 1735 1642.165557277 Netgear_92:a0:c6 → Broadcast    802.11 299  8 Beacon frame, SN=1202, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+ 1739 1642.230047954 Cisco-Li_1a:d0:a3 → Broadcast    802.11 289  10 Beacon frame, SN=3465, FN=0, Flags=........, BI=100, SSID=FishesInAPond
+ 1746 1644.427144111 00:c8:9f:92:ce:e6 → Broadcast    802.11 139  8 Beacon frame, SN=1654, FN=0, Flags=........, BI=100, SSID=FUZY
+ 1752 1644.469811048 AsustekC_35:ef:14 → Broadcast    802.11 311  8 Beacon frame, SN=2116, FN=0, Flags=........, BI=100, SSID=jhkim
+ 1756 1644.513711323 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3417, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1760 1644.616526831 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3422, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1891 1649.224775112 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3481, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 1969 1658.338661423 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3595, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 2037 1671.857895671 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3776, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 2040 1675.849854801 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3824, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 2042 1677.590977724 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3842, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 2044 1682.608662466 EdimaxTe_9d:a0:35 → Broadcast    802.11 345  8 Beacon frame, SN=3893, FN=0, Flags=........, BI=100, SSID=goede_morgan
+ 2131 1704.945027766 Avm_ae:f7:16 → Broadcast    802.11 215  1 Beacon frame, SN=3538, FN=0, Flags=........, BI=100, SSID=FRITZ!Box Fon WLAN 7170 Annex A
+ 2134 1704.979837843 FidaInte_17:b8:27 → Broadcast    802.11 326  2 Beacon frame, SN=699, FN=0, Flags=........, BI=100, SSID=RatNet
+ 2140 1705.146523735 Netgear_92:a0:c6 → Broadcast    802.11 299  7 Beacon frame, SN=1987, FN=0, Flags=........, BI=100, SSID=NETGEAR36
+ 2151 1705.268976715 6a:ff:3e:3d:1c:92 → Broadcast    802.11 226  11 Beacon frame, SN=159, FN=0, Flags=........, BI=100, SSID=KPN Fon
+ 2154 1705.322779406 SamsungE_f3:e7:33 → Broadcast    802.11 253  13 Beacon frame, SN=162, FN=0, Flags=........, BI=100, SSID=Broadcast
+ 2155 1705.334105195 SamsungE_b4:62:a7 → Broadcast    802.11 316  13 Beacon frame, SN=3928, FN=0, Flags=........, BI=100, SSID=HZN241205278
+ 2160 1705.381745489 fa:8f:ca:95:3a:64 → Broadcast    802.11 169  44 Beacon frame, SN=2399, FN=0, Flags=........, BI=100, SSID=Broadcast
+ 2162 1706.806456177 SamsungE_b4:62:a8 → Broadcast    802.11 344  116 Beacon frame, SN=1784, FN=0, Flags=........, BI=100, SSID=HZN502952238
+ 2197 1747.950567508 SamsungE_a8:8c:48 → Broadcast    802.11 316  1 Beacon frame, SN=2353, FN=0, Flags=........, BI=100, SSID=UPC240293034
+ 2199 1747.956582640 Avm_ae:f7:16 → Broadcast    802.11 215  1 Beacon frame, SN=3994, FN=0, Flags=........, BI=100, SSID=FRITZ!Box Fon WLAN 7170 Annex A
+ 2200 1747.969061490 EdimaxTe_c5:8c:f0 → Broadcast    802.11 335  2 Beacon frame, SN=1131, FN=0, Flags=........, BI=100, SSID=MK
+ 2203 1748.120715414 CompalBr_60:52:6f → Broadcast    802.11 299  6 Beacon frame, SN=2398, FN=0, Flags=........, BI=100, SSID=ZiggoE92934D
+ 2208 1748.194675234 FidaInte_17:b8:27 → Broadcast    802.11 326  9 Beacon frame, SN=1234, FN=0, Flags=........, BI=100, SSID=RatNet
+ 2209 1748.217556387 Cisco-Li_1a:d0:a3 → Broadcast    802.11 289  10 Beacon frame, SN=466, FN=0, Flags=........, BI=100, SSID=FishesInAPond
+ 2212 1748.274697836 Zte_3d:1c:91 → Broadcast    802.11 308  11 Beacon frame, SN=1102, FN=0, Flags=........, BI=100, SSID=H369A3D1C91
+ 2213 1748.276378552 6a:ff:3e:3d:1c:92 → Broadcast    802.11 226  11 Beacon frame, SN=1103, FN=0, Flags=........, BI=100, SSID=KPN Fon
+ 2214 1748.294008984 SamsungE_f8:1d:03 → Broadcast    802.11 253  12 Beacon frame, SN=3501, FN=0, Flags=........, BI=100, SSID=Broadcast
+ 2215 1748.321328201 SamsungE_b4:00:85 → Broadcast    802.11 253  13 Beacon frame, SN=2432, FN=0, Flags=........, BI=100, SSID=Broadcast
+ 2220 1749.682069538 82:2a:a8:cb:8e:97 → Broadcast    802.11 278  112 Beacon frame, SN=1378, FN=0, Flags=........, BI=100, SSID=S_5GHz
+    1 0.000000000 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1199, FN=0, Flags=........, BI=100, SSID=Mind Palace
+    2 44.648902200 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1687, FN=0, Flags=........, BI=100, SSID=Mind Palace
+    5 63.864686993 D-LinkIn_2a:78:80 → Broadcast    802.11 340  2 Beacon frame, SN=569, FN=0, Flags=........, BI=100, SSID=Harbinger
+    7 63.904034413 EdimaxTe_c5:b2:d6 → Broadcast    802.11 362  4 Beacon frame, SN=1225, FN=0, Flags=........, BI=100, SSID=Santo_Amigo
+    8 63.917431957 Tp-LinkT_05:1d:06 → Broadcast    802.11 272  4 Beacon frame, SN=1029, FN=0, Flags=........, BI=100, SSID=Huize Flamoesch
+   10 64.025968581 Devolo_e3:db:9a → Broadcast    802.11 285  6 Beacon frame, SN=401, FN=0, Flags=........, BI=100, SSID=WLANGBANG
+   14 64.167145304 Cisco-Li_9e:9d:68 → Broadcast    802.11 188  11 Beacon frame, SN=1529, FN=0, Flags=........, BI=100, SSID=low_signal
+   15 64.172780914 Apple_1c:90:dd → Broadcast    802.11 282  11 Beacon frame, SN=1932, FN=0, Flags=........, BI=100, SSID=Diggy
+   46 71.786319871 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1969, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   47 76.804254785 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2018, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   48 78.237939656 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2032, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   49 90.833916915 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2164, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   50 106.092366216 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2317, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   51 115.513653458 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2424, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   52 116.640161232 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2435, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   53 122.170065559 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2494, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   54 123.910978034 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2511, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   55 131.488971955 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2595, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   56 142.548778994 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2704, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   57 148.488323595 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2766, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   58 150.026092193 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2781, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   59 151.050234874 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2791, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   60 152.381515382 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2805, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   61 152.586326064 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2808, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   62 152.893538695 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2811, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   63 153.303125055 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2815, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   64 154.122424137 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2823, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   65 154.327362325 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2825, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   66 155.042351141 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2832, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   67 155.349495090 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2835, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   68 155.964213937 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2841, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   69 157.192872061 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2855, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   70 157.602759426 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2860, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   71 158.012612011 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2864, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   72 158.730256928 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2871, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   73 159.343399471 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2877, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   74 159.650674782 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2880, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   75 159.957840561 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2883, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   76 160.483495200 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2888, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   77 161.392552825 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2897, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   78 161.904306774 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2902, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   79 162.210765641 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2905, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   80 163.543299069 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2921, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   81 165.487758135 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2941, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   82 166.614449221 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2952, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   83 169.994525507 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2987, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   84 170.403379975 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2993, FN=0, Flags=........, BI=100, SSID=Mind Palace
+   89 172.007828143 Tp-LinkT_9f:16:02 → Broadcast    802.11 364  36 Beacon frame, SN=556, FN=0, Flags=........, BI=100, SSID=Huize_A&I_5Ghz
+   90 186.949266623 BelkinIn_10:98:af → Broadcast    802.11 224  1 Beacon frame, SN=11, FN=0, Flags=........, BI=100, SSID=Kebabs-guest
+   93 187.049614313 4e:66:41:f8:c3:4d → Broadcast    802.11 316  6 Beacon frame, SN=2928, FN=0, Flags=........, BI=100, SSID=NietJouwWifiVriend
+   99 187.151027372 Tp-LinkT_22:91:8c → Broadcast    802.11 284  10 Beacon frame, SN=1908, FN=0, Flags=........, BI=100, SSID=schuiftrompet
+  100 187.155496326 Cisco-Li_9e:9d:68 → Broadcast    802.11 188  10 Beacon frame, SN=3227, FN=0, Flags=........, BI=100, SSID=low_signal
+  101 187.164266476 Apple_c1:4f:d6 → Broadcast    802.11 321  10 Beacon frame, SN=3078, FN=0, Flags=........, BI=100, SSID=2 Girls 1 Router
+  103 187.175132850 Apple_0d:06:9e → Broadcast    802.11 311  11 Beacon frame, SN=2137, FN=0, Flags=........, BI=100, SSID=WWDTSWSMMN
+  104 187.176583610 Cisco-Li_89:e2:9c → Broadcast    802.11 165  11 Beacon frame, SN=198, FN=0, Flags=........, BI=100, SSID=aneduprouter
+  110 187.290908659 Tp-LinkT_22:28:ff → Broadcast    802.11 360  48 Beacon frame, SN=2048, FN=0, Flags=........, BI=100, SSID=Huize A.D.A.M. 5G
+  111 188.772994487 Apple_c1:4f:d7 → Broadcast    802.11 321  132 Beacon frame, SN=2967, FN=0, Flags=........, BI=100, SSID=2 Girls 1 Router
+  113 211.848856341 fa:8f:ca:7b:8c:7e → Broadcast    802.11 210  1 Beacon frame, SN=1126, FN=0, Flags=........, BI=100, SSID=citroen cast
+  114 211.851696486 Cisco-Li_b5:72:61 → Broadcast    802.11 269  1 Beacon frame, SN=3578, FN=0, Flags=........, BI=100, SSID=Huize Puur Genot
+  115 211.913933468 SitecomE_22:1b:30 → Broadcast    802.11 324  4 Beacon frame, SN=1309, FN=0, Flags=........, BI=20, SSID=Huize Hakmes
+  116 211.927793669 Apple_86:a3:4e → Broadcast    802.11 173  4 Beacon frame, SN=1096, FN=0, Flags=........, BI=100, SSID=HetInternet
+  121 214.897608613 Apple_86:a3:4e → Broadcast    802.11 173  4 Beacon frame, SN=1128, FN=0, Flags=........, BI=100, SSID=HetInternet
+  122 214.908583035 Draytek_cf:0f:78 → Broadcast    802.11 332  4 Beacon frame, SN=1286, FN=0, Flags=........, BI=100, SSID=GetOffMyLAN
+  125 237.938686413 Apple_86:a3:4e → Broadcast    802.11 173  5 Beacon frame, SN=1365, FN=0, Flags=........, BI=100, SSID=HetInternet
+  126 237.943478841 Cisco-Li_c6:01:ce → Broadcast    802.11 338  5 Beacon frame, SN=1304, FN=0, Flags=........, BI=100, SSID=Pura Vida
+  128 238.064718086 ZyxelCom_d0:fc:26 → Broadcast    802.11 352  10 Beacon frame, SN=336, FN=0, Flags=........, BI=100, SSID=ambers epische wifi
+  129 238.083721685 Tp-LinkT_78:bc:1d → Broadcast    802.11 345  11 Beacon frame, SN=3079, FN=0, Flags=........, BI=100, SSID=Frisenfruitig
+  130 238.104202560 Cisco-Li_de:3d:57 → Broadcast    802.11 138  11 Beacon frame, SN=1542, FN=0, Flags=........, BI=100, SSID=linksys
+  133 313.850696806 Conceptr_21:1e:24 → Broadcast    802.11 359  1 Beacon frame, SN=3047, FN=0, Flags=........, BI=100, SSID=C150BRS4
+  135 313.929691968 Cisco-Li_c6:01:ce → Broadcast    802.11 338  5 Beacon frame, SN=2192, FN=0, Flags=........, BI=100, SSID=Pura Vida
+  144 314.367402485 CompalBr_d9:de:8a → Broadcast    802.11 386  56 Beacon frame, SN=781, FN=0, Flags=........, BI=100, SSID=ZiggoEB1A8B6
+  145 314.521556398 CompalBr_8b:e2:1a → Broadcast    802.11 388  64 Beacon frame, SN=3990, FN=0, Flags=........, BI=100, SSID=Rickenjennifer
+  146 314.587577878 CompalBr_8d:f2:05 → Broadcast    802.11 362  100 Beacon frame, SN=588, FN=0, Flags=........, BI=100, SSID=ZiggoAF68527
+  160 367.100585949 SitecomE_43:42:44 → Broadcast    802.11 415  11 Beacon frame, SN=61, FN=0, Flags=........, BI=100, SSID=Sitecom434244
+  161 429.885383344 fa:8f:ca:8b:8f:65 → Broadcast    802.11 199  1 Beacon frame, SN=289, FN=0, Flags=........, BI=100, SSID=Broadcast
+  162 429.897910121 Tp-LinkT_37:7c:fb → Broadcast    802.11 331  1 Beacon frame, SN=447, FN=0, Flags=........, BI=100, SSID=TP-LINK_7CFC
+  167 429.987142292 Tp-LinkT_9b:17:b4 → Broadcast    802.11 315  5 Beacon frame, SN=3665, FN=0, Flags=........, BI=100, SSID=TP-LINK_17B4
+  171 430.046560368 BelkinIn_87:f1:d4 → Broadcast    802.11 321  7 Beacon frame, SN=3488, FN=0, Flags=........, BI=100, SSID=Linksys06971
+  173 430.114001681 Cisco-Li_de:3d:57 → Broadcast    802.11 138  10 Beacon frame, SN=748, FN=0, Flags=........, BI=100, SSID=linksys
+  183 493.000873950 Tp-LinkT_8a:67:d2 → Broadcast    802.11 266  5 Beacon frame, SN=3135, FN=0, Flags=........, BI=100, SSID=lxt
+  189 493.146904279 SitecomE_e7:e8:34 → Broadcast    802.11 317  11 Beacon frame, SN=3144, FN=0, Flags=........, BI=100, SSID=SitecomE7E834
+  191 493.178107238 SitecomE_0b:d0:1e → Broadcast    802.11 322  13 Beacon frame, SN=2085, FN=0, Flags=........, BI=100, SSID=Tijd voor pils!
+  200 493.604141719 Zte_35:3b:7a → Broadcast    802.11 332  64 Beacon frame, SN=1776, FN=0, Flags=........, BI=100, SSID=H369A353B79
+  201 493.638351874 AsustekC_09:82:b8 → Broadcast    802.11 343  100 Beacon frame, SN=1288, FN=0, Flags=........, BI=100, SSID=GVDH
+  202 493.966652086 CompalBr_e1:8d:6f → Broadcast    802.11 362  112 Beacon frame, SN=1652, FN=0, Flags=........, BI=100, SSID=Ziggo19294B8
+  208 556.075496658 Cisco-Li_de:3d:57 → Broadcast    802.11 138  11 Beacon frame, SN=3970, FN=0, Flags=........, BI=100, SSID=linksys
+  210 556.102273345 SitecomE_40:d2:2b → Broadcast    802.11 252  12 Beacon frame, SN=3694, FN=0, Flags=........, BI=100, SSID=SitecomRV
+  212 618.978595970 ProwareT_75:af:d0 → Broadcast    802.11 305  7 Beacon frame, SN=2631, FN=0, Flags=........, BI=100, SSID=Tante lien
+  213 619.060523001 Draytek_de:2a:70 → Broadcast    802.11 332  10 Beacon frame, SN=2124, FN=0, Flags=........, BI=100, SSID=VFNL-DE2A70
+  214 619.085760184 SitecomE_48:63:0a → Broadcast    802.11 160  11 Beacon frame, SN=3935, FN=0, Flags=........, BI=100, SSID=The End
+  215 619.563298666 Zte_35:3b:7a → Broadcast    802.11 332  64 Beacon frame, SN=3038, FN=0, Flags=........, BI=100, SSID=H369A353B79
+  217 619.599069377 Zte_39:0f:e2 → Broadcast    802.11 332  100 Beacon frame, SN=2444, FN=0, Flags=........, BI=100, SSID=H369A390FE1
+  218 681.831007250 CompalBr_8d:f2:0c → Broadcast    802.11 317  1 Beacon frame, SN=3565, FN=0, Flags=........, BI=100, SSID=ZiggoAF68527
+  219 681.833567640 Tp-LinkT_0b:f8:33 → Broadcast    802.11 334  1 Beacon frame, SN=1340, FN=0, Flags=........, BI=100, SSID=Luuk's internet
+  220 681.845741303 Pegatron_07:6e:c4 → Broadcast    802.11 312  1 Beacon frame, SN=3698, FN=0, Flags=........, BI=100, SSID=Ziggo64838
+  221 681.879457015 SweexEur_22:38:00 → Broadcast    802.11 413  3 Beacon frame, SN=1855, FN=0, Flags=........, BI=100, SSID=Sweex_LW310V2
+  222 681.908095515 Tp-LinkT_9b:17:b4 → Broadcast    802.11 315  4 Beacon frame, SN=3467, FN=0, Flags=........, BI=100, SSID=TP-LINK_17B4
+  223 681.911840757 Tp-LinkT_14:16:9a → Broadcast    802.11 329  4 Beacon frame, SN=1411, FN=0, Flags=........, BI=100, SSID=Amersfoort
+  225 681.957428247 CompalBr_7a:64:4f → Broadcast    802.11 317  6 Beacon frame, SN=2080, FN=0, Flags=........, BI=100, SSID=ZiggoB4BABCF
+  226 681.970031662 ae:22:35:7a:64:4f → Broadcast    802.11 323  6 Beacon frame, SN=2081, FN=0, Flags=........, BI=100, SSID=Ziggo-gastB4BABCF
+  227 682.103442014 SitecomE_3d:15:3b → Broadcast    802.11 356  12 Beacon frame, SN=3686, FN=0, Flags=........, BI=100, SSID=Hide yo kids hide yo WIFI
+  229 682.735541276 Zte_7d:0a:64 → Broadcast    802.11 324  100 Beacon frame, SN=2109, FN=0, Flags=........, BI=100, SSID=Mip
+  230 744.843090424 Cisco-Li_7b:83:1e → Broadcast    802.11 251  1 Beacon frame, SN=3995, FN=0, Flags=........, BI=100, SSID=Huize 3 op 14
+  231 744.853592318 SenaoNet_10:cc:80 → Broadcast    802.11 345  1 Beacon frame, SN=3757, FN=0, Flags=........, BI=100, SSID=PANINVEST
+  232 744.884551613 SenaoNet_10:cc:70 → Broadcast    802.11 345  3 Beacon frame, SN=1926, FN=0, Flags=........, BI=100, SSID=PANINVEST
+  233 744.953849596 fa:8f:ca:30:42:f8 → Broadcast    802.11 198  6 Beacon frame, SN=3618, FN=0, Flags=........, BI=100, SSID=Broadcast
+  234 744.966989835 Zte_69:41:3f → Broadcast    802.11 326  6 Beacon frame, SN=3706, FN=0, Flags=........, BI=100, SSID=H369A69413F
+  235 745.083085855 ArrisGro_60:21:29 → Broadcast    802.11 308  11 Beacon frame, SN=504, FN=0, Flags=........, BI=100, SSID=Ziggo5727427
+  236 807.857937196 CompalBr_77:5f:81 → Broadcast    802.11 317  1 Beacon frame, SN=2171, FN=0, Flags=........, BI=100, SSID=Ziggo5E7F558
+  237 807.881851529 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1837, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  238 807.890847447 Tp-LinkT_82:fe:2f → Broadcast    802.11 336  2 Beacon frame, SN=2666, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@2.4
+  239 807.961020752 Winstars_6d:c5:c5 → Broadcast    802.11 341  5 Beacon frame, SN=2814, FN=0, Flags=........, BI=200, SSID=HalloJumbo
+  241 810.602490695 EdimaxTe_9d:a0:4d → Broadcast    802.11 359  2 Beacon frame, SN=1248, FN=0, Flags=........, BI=100, SSID=ubiquity
+  243 810.645416861 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1866, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  244 810.655776140 Tp-LinkT_82:fe:2f → Broadcast    802.11 336  2 Beacon frame, SN=2695, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@2.4
+  246 810.758214989 Tp-LinkT_82:fe:2f → Broadcast    802.11 336  2 Beacon frame, SN=2696, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@2.4
+  248 811.362237836 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  3 Beacon frame, SN=1873, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  249 811.369408222 EdimaxTe_c5:b2:d6 → Broadcast    802.11 362  3 Beacon frame, SN=1056, FN=0, Flags=........, BI=100, SSID=Santo_Amigo
+  250 811.442839981 Winstars_6d:c5:c5 → Broadcast    802.11 341  6 Beacon frame, SN=2834, FN=0, Flags=........, BI=200, SSID=HalloJumbo
+  252 814.127262277 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1902, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  253 814.137855024 Tp-LinkT_82:fe:2f → Broadcast    802.11 336  2 Beacon frame, SN=2734, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@2.4
+  256 815.245022863 ee:55:f9:2d:b2:a9 → Broadcast    802.11 271  1 Beacon frame, SN=1370, FN=0, Flags=........, BI=100, SSID=Ziggo
+  257 815.446861538 ZyxelCom_d0:e0:f5 → Broadcast    802.11 287  8 Beacon frame, SN=2046, FN=0, Flags=........, BI=100, SSID=ZyXELD0E0F4
+  258 815.525622199 Cisco-Li_9e:9d:68 → Broadcast    802.11 188  11 Beacon frame, SN=2167, FN=0, Flags=........, BI=100, SSID=low_signal
+  259 815.536378674 SitecomE_43:42:44 → Broadcast    802.11 415  11 Beacon frame, SN=342, FN=0, Flags=........, BI=100, SSID=Sitecom434244
+  262 818.018622733 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  3 Beacon frame, SN=1942, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  263 820.681234293 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1968, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  265 820.752926701 D-LinkIn_2a:78:80 → Broadcast    802.11 340  2 Beacon frame, SN=479, FN=0, Flags=........, BI=100, SSID=Harbinger
+  267 820.783638262 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=1969, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  272 825.869334662 BelkinIn_50:2f:12 → Broadcast    802.11 298  1 Beacon frame, SN=1880, FN=0, Flags=........, BI=100, SSID=WiFi
+  273 825.873468049 D-LinkIn_2a:78:80 → Broadcast    802.11 340  1 Beacon frame, SN=540, FN=0, Flags=........, BI=100, SSID=Harbinger
+  275 825.903958164 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2025, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  276 825.923671219 Tp-LinkT_05:1d:06 → Broadcast    802.11 272  3 Beacon frame, SN=322, FN=0, Flags=........, BI=100, SSID=Huize Flamoesch
+  278 825.984528421 Winstars_6d:c5:c5 → Broadcast    802.11 341  5 Beacon frame, SN=2926, FN=0, Flags=........, BI=200, SSID=HalloJumbo
+  279 826.012773240 Tp-LinkT_8a:67:d2 → Broadcast    802.11 266  6 Beacon frame, SN=3023, FN=0, Flags=........, BI=100, SSID=lxt
+  280 826.207803825 SitecomE_0b:d0:1e → Broadcast    802.11 322  13 Beacon frame, SN=1241, FN=0, Flags=........, BI=100, SSID=Tijd voor pils!
+  292 831.334087123 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2114, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  315 834.096829667 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2158, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  360 836.452181657 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2196, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  404 841.879694347 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2276, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  415 843.108581228 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2294, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  416 844.439908711 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2311, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  424 870.838256235 BelkinIn_10:98:af → Broadcast    802.11 224  1 Beacon frame, SN=3462, FN=0, Flags=........, BI=100, SSID=Kebabs-guest
+  427 870.861287471 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=2586, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  431 870.995374908 Devolo_e3:db:9a → Broadcast    802.11 285  6 Beacon frame, SN=2262, FN=0, Flags=........, BI=100, SSID=WLANGBANG
+  443 871.228989979 Tp-LinkT_82:fe:2e → Broadcast    802.11 393  36 Beacon frame, SN=89, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@5
+  456 913.835803320 BelkinIn_50:2f:12 → Broadcast    802.11 298  1 Beacon frame, SN=2820, FN=0, Flags=........, BI=100, SSID=WiFi
+  457 913.844350362 D-LinkIn_2a:78:80 → Broadcast    802.11 340  1 Beacon frame, SN=1498, FN=0, Flags=........, BI=100, SSID=Harbinger
+  459 913.871168261 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=3049, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  464 914.139156681 Cisco-Li_9e:9d:68 → Broadcast    802.11 188  11 Beacon frame, SN=3517, FN=0, Flags=........, BI=100, SSID=low_signal
+  465 914.154041739 AsustekC_ad:8a:e0 → Broadcast    802.11 318  11 Beacon frame, SN=2404, FN=0, Flags=........, BI=100, SSID=huiyi
+  466 914.172351578 Tp-LinkT_9f:16:03 → Broadcast    802.11 283  12 Beacon frame, SN=3958, FN=0, Flags=........, BI=100, SSID=Huize_A&I_2.4Ghz
+  470 919.605922368 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=3106, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  471 925.750312367 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=3185, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  479 976.852631901 D-LinkIn_44:5e:a2 → Broadcast    802.11 357  2 Beacon frame, SN=3726, FN=0, Flags=........, BI=100, SSID=Mind Palace
+  485 977.085998023 fa:8f:ca:85:b1:55 → Broadcast    802.11 199  9 Beacon frame, SN=2358, FN=0, Flags=........, BI=100, SSID=Broadcast
+  495 977.219395236 Tp-LinkT_82:fe:2e → Broadcast    802.11 393  36 Beacon frame, SN=1290, FN=0, Flags=........, BI=100, SSID=RocketSurgeon@5
+  496 977.223333490 Routerbo_19:a7:36 → Broadcast    802.11 408  36 Beacon frame, SN=679, FN=0, Flags=........, BI=100, SSID=MTBitches2
