@@ -8,7 +8,7 @@ arriva
 ASUS_5G
 balala
 blackhole
-B_T_135
+BT_135
 bud:free
 Coiffina
 Cserpes
