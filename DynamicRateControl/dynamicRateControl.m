@@ -14,7 +14,7 @@ s = rng(21);
 % is described further in <matlab:doc('wlanTGacChannel') wlanTGacChannel>.
 
 tgacChannel = wlanTGacChannel;
-tgacChannel.DelayProfile = 'Model-A';
+tgacChannel.DelayProfile = 'Model-D';
 tgacChannel.ChannelBandwidth = cfgVHT.ChannelBandwidth;
 tgacChannel.NumTransmitAntennas = 1;
 tgacChannel.NumReceiveAntennas = 1;
