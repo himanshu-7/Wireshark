@@ -1,6 +1,6 @@
 %% Waveform Configuration
 cfgVHT = wlanVHTConfig;         
-cfgVHT.ChannelBandwidth = 'CBW40'; % 40 MHz channel bandwidth
+cfgVHT.ChannelBandwidth = 'CBW80'; % 40 MHz channel bandwidth
 cfgVHT.MCS = 1;                    % QPSK rate-1/2
 cfgVHT.APEPLength = 4096;          % APEP length in bytes
 
@@ -37,8 +37,8 @@ snrInd = cfgVHT.MCS; % Store the start MCS value
 
 %% Simulation Parameters
 
-numPackets = 1000; % Number of packets transmitted during the simulation 
-walkSNR = false; 
+numPackets = 100; % Number of packets transmitted during the simulation 
+walkSNR = true; 
 
 % Select SNR for the simulation
 
@@ -50,7 +50,7 @@ if walkSNR
     snrWalk = baseSNR(1); % Set the initial SNR value
     % The maxJump controls the maximum SNR difference between one
     % packet and the next 
-    maxJump = 5;
+    maxJump = 0.5;
 else
     % Fixed mean SNR value for each transmitted packet. All the variability
     % in SNR comes from a time varying radio channel
@@ -127,12 +127,13 @@ for numPkt = 1:numPackets
     increaseMCS = (mean(y.EstimatedSNR) > snrUp((snrInd==0)+snrInd));
     decreaseMCS = (mean(y.EstimatedSNR) <= snrDown((snrInd==0)+snrInd));
     temp=snrInd;
-    if(i<6)
+    % Capture 5 packets for determining which algorithm to switch to
+    if(i<6)                                     
         BER_array(1,i)= ber(numPkt);
         i=i+1;
         
     else
-        i=5; 
+        i=5;
         while (i~=1)
             for j=1:1:i-1
                 if (BER_array(1,j) == BER_array(1,j+1))
@@ -142,7 +143,9 @@ for numPkt = 1:numPackets
             end
         end
         
-        if (same==0)
+        % If majority packets have bit error rate change the algorithm,
+        % else keep tha same
+        if (same<=2)                        
             not_constant_snr= 1;
             same=0;
             constant_snr=0;
@@ -152,7 +155,7 @@ for numPkt = 1:numPackets
             not_constant_snr=0;
         end
     end
-    if (not_constant_snr) %trend, mine
+    if (not_constant_snr) %algorithm 1 : use this algorithm if the channel has high fluctuations in thevalus of SNR
         if (increaseMCS)
             while (mean(y.EstimatedSNR)>snrUp((temp==0)+temp)) %get the perfect snrIndex it should be at. 
                 temp= temp+1;
@@ -168,11 +171,7 @@ for numPkt = 1:numPackets
             while (mean(y.EstimatedSNR) <= snrDown((temp==0)+temp))
                 temp= temp-1;
             end
-            if (snrInd-temp >3)
-                snrInd=snrInd-3;
-            else
-                snrInd= temp;
-            end
+            snrInd = temp;
         end
    
         if (decreaseMCS==0 && increaseMCS ==0)% to make sure that if its still within the interval, is it decreasing towards to lower threshold value (i.e if its within the prev interval threshold. then just dont takw chance and decrement MCS) 
@@ -185,11 +184,15 @@ for numPkt = 1:numPackets
                 end
             end
         end
-       cfgVHT.MCS = snrInd-1;  
+        if ((snrInd-1 == 9) && (cfgVHT.ChannelBandwidth == "CBW20"))     % If the channel is 20MHz do not switch to MCS9
+            cfg.VHT.MCS = 8;
+        else
+            cfgVHT.MCS = snrInd-1;  
+        end
     end
     
-    if (constant_snr) %random himanshu
-        if(mean(y.EstimatedSNR) < 12)
+    if (constant_snr)                       % select this algorithm if the channel has small changes in SNR values
+        if(mean(y.EstimatedSNR) < 12)       % Based on measured EstimatedSNR directly switch to the MCS value
             cfgVHT.MCS = 0;
         elseif (mean(y.EstimatedSNR) >= 12 && mean(y.EstimatedSNR) < 15)
             cfgVHT.MCS = 1; 
@@ -208,7 +211,11 @@ for numPkt = 1:numPackets
         elseif (mean(y.EstimatedSNR) >= 32 && mean(y.EstimatedSNR < 36))
             cfgVHT.MCS = 8;
         elseif (mean(y.EstimatedSNR) >= 36)
-            cfgVHT.MCS = 9; 
+            if (cfgVHT.ChannelBandwidth == "CBW20")  % if the channel is 20 MHz do not switch to MCS9
+                cfgVHT.MCS = 8; 
+            else
+                cfgVHT.MCS = 9;
+            end
         end 
     end
 end
